@@ -261,7 +261,7 @@ int yfs_client::unlink(inum parent, const char *name){
 int yfs_client::symlink(inum parent, const char *name, const char *path,  inum &ino_out){
     if(parent <= 0)
         return IOERR;
-    printf("-----SYMLINK-----\nparent:%0lld name:%s path:%s",parent, name, path);
+    printf("-----SYMLINK-----\nparent:%0lld name:%s path:%s\n",parent, name, path);
     if(ec->create(extent_protocol::T_SYMLINK, ino_out) != extent_protocol::OK)
         return IOERR;
     if(ec->put(ino_out, path) != extent_protocol::OK)
