@@ -57,7 +57,7 @@ getattr(yfs_client::inum inum, struct stat &st)
         st.st_mtime = info.mtime;
         st.st_ctime = info.ctime;
         st.st_size = info.size;
-        printf("   getattr -> %llu\n", info.size);
+//        printf("   getattr -> %llu\n", info.size);
     } else if(yfs->isdir(inum)){
         yfs_client::dirinfo info;
         ret = yfs->getdir(inum, info);
@@ -68,7 +68,7 @@ getattr(yfs_client::inum inum, struct stat &st)
         st.st_atime = info.atime;
         st.st_mtime = info.mtime;
         st.st_ctime = info.ctime;
-        printf("   getattr -> %lu %lu %lu\n", info.atime, info.mtime, info.ctime);
+  //      printf("   getattr -> %lu %lu %lu\n", info.atime, info.mtime, info.ctime);
     }else{
         yfs_client::fileinfo info;
         ret = yfs->getfile(inum, info);
@@ -459,7 +459,7 @@ fuseserver_statfs(fuse_req_t req)
 {
     struct statvfs buf;
 
-    printf("statfs\n");
+//    printf("statfs\n");
 
     memset(&buf, 0, sizeof(buf));
 
