@@ -29,7 +29,7 @@ lock_server::stat(int clt, lock_protocol::lockid_t lid, int &r)
 lock_protocol::status
 lock_server::acquire(int clt, lock_protocol::lockid_t lid, int &r)
 {
-  printf("LOCK want to acquire %d %llu\n", clt, lid);
+  printf("LOCK want to acquire %llu\n",  lid);
   pthread_mutex_lock(&mutex);
 
   if(granted.find(lid) != granted.end()){
@@ -49,7 +49,7 @@ lock_server::acquire(int clt, lock_protocol::lockid_t lid, int &r)
 lock_protocol::status
 lock_server::release(int clt, lock_protocol::lockid_t lid, int &r)
 {
-  printf("RELEASE want to release %d %llu\n", clt, lid);
+  //printf("RELEASE want to release %llu\n", clt, lid);
   pthread_mutex_lock(&mutex);
   
   if(granted.find(lid) == granted.end() || granted[lid] == false){
@@ -61,7 +61,7 @@ lock_server::release(int clt, lock_protocol::lockid_t lid, int &r)
   printf("LOCK release and broadcast\n");
   granted[lid] = false;
  // lock_stat[lid]--;
-  pthread_cond_broadcast(&cond);
+  pthread_cond_signal(&cond);
   
   pthread_mutex_unlock(&mutex);
   printf("LOCK release succ\n");

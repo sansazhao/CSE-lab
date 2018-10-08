@@ -139,19 +139,15 @@ int yfs_client::setattr(inum ino, size_t size){
 
 int yfs_client::add_entry(inum parent, const char *name, inum ino){
     std::string content;
-    lc->acquire(parent);
     if(ec->get(parent, content) != extent_protocol::OK){
-        lc->release(parent);
         return IOERR;
     }
     content.append(name);
     content.push_back('\0');
     content.append(filename(ino));
     if(ec->put(parent, content) != extent_protocol::OK){
-        lc->release(parent);
         return IOERR;
     }
-    lc->release(parent);
     return OK;
 }
 
@@ -196,30 +192,27 @@ int yfs_client::mkdir(inum parent, const char *name, mode_t mode, inum &ino_out)
 
 int yfs_client::lookup(inum parent, const char *name, bool &found, inum &ino_out){
     std::list<dirent> list;
-    lc->acquire(parent);
+    printf("YFS lookup1\n");
     if(readdir(parent, list) != OK){
         printf("LOOKUP error- inum: %016llx\n", parent);
-        lc->release(parent);
         return IOERR;
     }
     for(std::list<dirent>::iterator it = list.begin(); it != list.end(); ++it){
         if(it->name == name){
             found = true;
             ino_out = it->inum;
-            lc->release(parent);
             return OK;
         }
     }
-    lc->release(parent);
+    printf("YFS lookup2\n");
     return OK;
 }
 
 int yfs_client::readdir(inum dir, std::list<dirent> &list){
     std::string content;
-    lc->acquire(dir);
+    printf("YFS readdir1\n");
     if(ec->get(dir, content) != extent_protocol::OK){
         printf("READDIR fail\n");
-        lc->release(dir);
         return IOERR;
     }
     std::istringstream ist(content);
@@ -229,22 +222,25 @@ int yfs_client::readdir(inum dir, std::list<dirent> &list){
         ist >> entry.inum;
         list.push_back(entry);
     }
-    lc->release(dir);
+    printf("YFS readdir2\n");
     return OK;
 }
 
 int yfs_client::read(inum ino, size_t size, off_t off, std::string &data){
     std::string content;
+    printf("YFS read0\n");
     if(size < 0 || off < 0 || ino <= 0){
         printf("READ argu error\n");
         return IOERR;
     }
+    printf("YFS read1\n");
     lc->acquire(ino);
     if(ec->get(ino, content) != OK){
         printf("READ get fail\n");
         lc->release(ino);
         return IOERR;
     }
+    printf("YFS read2\n");
     if(off >= (unsigned int)content.size()){
         printf("READ offset out of range\n");
         lc->release(ino);
@@ -254,7 +250,7 @@ int yfs_client::read(inum ino, size_t size, off_t off, std::string &data){
     if(content.size() > size)
         content.resize(size);
     data = content;
-
+    printf("YFS read3\n");
     lc->release(ino);
     return OK;
 }
@@ -264,6 +260,7 @@ int yfs_client::read(inum ino, size_t size, off_t off, std::string &data){
  */
 int yfs_client::write(inum ino, size_t size, off_t off, const char *data, size_t &bytes_written){
     std::string content;
+    printf("YFS write1\n");
     lc->acquire(ino);
     if(ec->get(ino, content) != extent_protocol::OK){
         lc->release(ino);

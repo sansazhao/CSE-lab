@@ -22,6 +22,7 @@ int
 lock_client::stat(lock_protocol::lockid_t lid)
 {
   int r;
+  printf("lc Stat\n");
   lock_protocol::status ret = cl->call(lock_protocol::stat, cl->id(), lid, r);
   VERIFY (ret == lock_protocol::OK);
   return ret;
@@ -31,10 +32,9 @@ lock_protocol::status
 lock_client::acquire(lock_protocol::lockid_t lid)
 {
   int r;
+  printf("lc Acquire\n");
   lock_protocol::status ret = cl->call(lock_protocol::acquire, cl->id(), lid, r);
-  printf("-----lc Acquire1\n");
   VERIFY (ret == lock_protocol::OK);
-  printf("-----lc acquire2\n");
   return r;
 }
 
@@ -42,6 +42,7 @@ lock_protocol::status
 lock_client::release(lock_protocol::lockid_t lid)
 {
   int r;
+  printf("lc Release\n");
   lock_protocol::status ret = cl->call(lock_protocol::release, cl->id(), lid, r);
   VERIFY (ret == lock_protocol::OK);
   return ret;
