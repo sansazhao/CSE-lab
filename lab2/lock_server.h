@@ -18,7 +18,6 @@ class lock_server {
   pthread_mutex_t mutex;
   pthread_cond_t cond;
   std::map<lock_protocol::lockid_t, bool>granted;
-  std::map<lock_protocol::lockid_t, int>lock_stat;
 
 
 

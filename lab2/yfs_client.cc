@@ -152,9 +152,10 @@ int yfs_client::add_entry(inum parent, const char *name, inum ino){
 }
 
 int yfs_client::create(inum parent, const char *name, mode_t mode, inum &ino_out){
-    bool found = false;
     lc->acquire(parent);
-    int r = lookup(parent, name, found, ino_out);
+    bool found = false;
+    int r = OK;
+    lookup(parent, name, found, ino_out);
     if(found){
         lc->release(parent);
         return EXIST;
@@ -164,27 +165,26 @@ int yfs_client::create(inum parent, const char *name, mode_t mode, inum &ino_out
         lc->release(parent);
         return IOERR;
     }
-    printf("-----CREATE file name:%s, ino:%0lld\n", name, ino_out);
+    printf("CREATE file name:%s, ino:%0lld\n", name, ino_out);
     r = add_entry(parent, name, ino_out);
     lc->release(parent);
     return r;
 }
 
 int yfs_client::mkdir(inum parent, const char *name, mode_t mode, inum &ino_out){
-    bool found = false;
     lc->acquire(parent);
-    int r = lookup(parent, name, found, ino_out);
+    bool found = false;
+    int r = OK;
+    r = lookup(parent, name, found, ino_out);
     if(found){
-        printf("MKDIR found dir\n");
         lc->release(parent);
         return EXIST;
     }
     if(ec->create(extent_protocol::T_DIR, ino_out) != OK){
-        printf("MKDIR fail\n");
         lc->release(parent);
         return IOERR;
     }
-    printf("-----CREATE dir name:%s, ino:%0lld\n", name, ino_out);
+    printf("CREATE dir name:%s, ino:%0lld\n", name, ino_out);
     r = add_entry(parent, name, ino_out);
     lc->release(parent);
     return r;
@@ -192,7 +192,6 @@ int yfs_client::mkdir(inum parent, const char *name, mode_t mode, inum &ino_out)
 
 int yfs_client::lookup(inum parent, const char *name, bool &found, inum &ino_out){
     std::list<dirent> list;
-    printf("YFS lookup1\n");
     if(readdir(parent, list) != OK){
         printf("LOOKUP error- inum: %016llx\n", parent);
         return IOERR;
@@ -204,13 +203,11 @@ int yfs_client::lookup(inum parent, const char *name, bool &found, inum &ino_out
             return OK;
         }
     }
-    printf("YFS lookup2\n");
     return OK;
 }
 
 int yfs_client::readdir(inum dir, std::list<dirent> &list){
     std::string content;
-    printf("YFS readdir1\n");
     if(ec->get(dir, content) != extent_protocol::OK){
         printf("READDIR fail\n");
         return IOERR;
@@ -222,35 +219,25 @@ int yfs_client::readdir(inum dir, std::list<dirent> &list){
         ist >> entry.inum;
         list.push_back(entry);
     }
-    printf("YFS readdir2\n");
     return OK;
 }
 
 int yfs_client::read(inum ino, size_t size, off_t off, std::string &data){
-    std::string content;
-    printf("YFS read0\n");
     if(size < 0 || off < 0 || ino <= 0){
-        printf("READ argu error\n");
         return IOERR;
     }
-    printf("YFS read1\n");
+
     lc->acquire(ino);
-    if(ec->get(ino, content) != OK){
-        printf("READ get fail\n");
+    if(ec->get(ino, data) != OK){
         lc->release(ino);
         return IOERR;
     }
-    printf("YFS read2\n");
-    if(off >= (unsigned int)content.size()){
-        printf("READ offset out of range\n");
-        lc->release(ino);
-        return IOERR;
-    }
-    content.erase(0, off);
-    if(content.size() > size)
-        content.resize(size);
-    data = content;
-    printf("YFS read3\n");
+    if(off >= (unsigned)data.size())
+       data = "";
+    else
+        data = data.substr(off);
+    if(data.size() > size)
+        data.resize(size);
     lc->release(ino);
     return OK;
 }
@@ -259,23 +246,26 @@ int yfs_client::read(inum ino, size_t size, off_t off, std::string &data){
  * write: when off > length of original file, fill the holes with '\0'
  */
 int yfs_client::write(inum ino, size_t size, off_t off, const char *data, size_t &bytes_written){
-    std::string content;
-    printf("YFS write1\n");
     lc->acquire(ino);
-    if(ec->get(ino, content) != extent_protocol::OK){
-        lc->release(ino);
-        return IOERR;
+    std::string content;
+    std::string temp(data, size);
+    int r = OK;
+    r = ec->get(ino, content);
+    bytes_written = 0;
+    if(content.size() < off){
+        bytes_written += off - content.size();
+        content.append(off - content.size(), 0);
+        content += temp;
     }
-    bytes_written = off + size - content.size();
-    if(off + size > content.size())
-        content.resize(off + size, '\0');
-    content.replace(off, size, data, size);
+    else
+        content.replace(off, size, temp);
+    bytes_written += size;
     if(ec->put(ino, content) != extent_protocol::OK){
         lc->release(ino);
         return IOERR;
     }
     lc->release(ino);
-    return OK;
+    return r;
 }
 
 int yfs_client::unlink(inum parent, const char *name){
@@ -314,7 +304,7 @@ int yfs_client::unlink(inum parent, const char *name){
 int yfs_client::symlink(inum parent, const char *name, const char *path,  inum &ino_out){
     if(parent <= 0)
         return IOERR;
-    printf("-----SYMLINK-----\nparent:%0lld name:%s path:%s\n",parent, name, path);
+    printf("SYMLINK-----\nparent:%0lld name:%s path:%s\n",parent, name, path);
     lc->acquire(parent);
     if(ec->create(extent_protocol::T_SYMLINK, ino_out) != extent_protocol::OK){
         lc->release(parent);
@@ -328,7 +318,6 @@ int yfs_client::symlink(inum parent, const char *name, const char *path,  inum &
         lc->release(parent);
         return IOERR;
     }
-    printf(" ino:%0lld\n",ino_out);
     lc->release(parent);
     return OK;
 }
@@ -342,7 +331,7 @@ int yfs_client::readlink(inum ino, std::string &path){
         lc->release(ino);
         return IOERR;  
     }
-    printf("---------READLINK----------\nino:%0lld path:%s\n", ino, path.c_str());
+    printf("READLINK----------\nino:%0lld path:%s\n", ino, path.c_str());
     lc->release(ino);
     return OK;
 }

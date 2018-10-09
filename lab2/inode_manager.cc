@@ -280,12 +280,12 @@ inode_manager::write_file(uint32_t inum, const char *buf, int size)
     for(int i = 0; i < need_bnum; i++){
         char temp[BLOCK_SIZE];
 	    if(i != need_bnum - 1)
-        	bm->write_block(get_block(ino, i), buf + i*BLOCK_SIZE);
+            bm->write_block(get_block(ino, i), buf + i*BLOCK_SIZE);
         else{
             bzero(temp, BLOCK_SIZE);
             memcpy(temp, buf + i*BLOCK_SIZE, size - i*BLOCK_SIZE);
             bm->write_block(get_block(ino, i), temp);
-        }
+       }
     }
     ino->mtime = time(NULL);
     ino->ctime = time(NULL);
