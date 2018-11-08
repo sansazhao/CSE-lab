@@ -1,0 +1,2 @@
+rpcs::dispatch: failed to unmarshall the arguments. You are probably calling RPC 0x7001 with wrong types of arguments.
+lock_server: rpc/rpc.cc:598: void rpcs::dispatch(rpcs::djob_t*): Assertion `0' failed.
