@@ -20,9 +20,7 @@ lock_server::stat(int clt, lock_protocol::lockid_t lid, int &r)
 {
   lock_protocol::status ret = lock_protocol::OK;
   printf("stat request from clt %d\n", clt);
-  pthread_mutex_lock(&mutex);
   r = nacquire;
-  pthread_mutex_unlock(&mutex);
   return ret;
 }
 

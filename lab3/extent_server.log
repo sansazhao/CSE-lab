@@ -1,1 +1,5564 @@
+RPC STATS: 1:2 6001:1 
 extent_server: get 1
+RPC STATS: 1:2 6001:2 6002:2 
+extent_server: get 1
+extent_server: create inode
+extent_server: get 1
+RPC STATS: 1:2 6001:3 6002:3 6005:1 
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:3 6002:3 6003:3 6005:1 
+extent_server: getattr 2
+extent_server: get 1
+extent_server: get 1
+RPC STATS: 1:2 6001:3 6002:5 6003:3 6005:2 
+extent_server: create inode
+extent_server: get 1
+RPC STATS: 1:2 6001:4 6002:6 6003:4 6005:2 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:4 6002:7 6003:6 6005:2 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:4 6002:7 6003:9 6005:2 
+extent_server: getattr 2
+extent_server: get 1
+extent_server: get 1
+RPC STATS: 1:2 6001:4 6002:9 6003:10 6005:2 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:4 6002:9 6003:13 6005:2 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 3
+RPC STATS: 1:2 6001:4 6002:10 6003:15 6005:2 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: get 3
+RPC STATS: 1:2 6001:4 6002:12 6003:15 6005:3 
+extent_server: create inode
+extent_server: get 2
+extent_server: create inode
+RPC STATS: 1:2 6001:4 6002:14 6003:15 6005:4 
+extent_server: get 3
+extent_server: get 2
+RPC STATS: 1:2 6001:6 6002:15 6003:15 6005:4 
+extent_server: getattr 4
+extent_server: getattr 5
+RPC STATS: 1:2 6001:6 6002:15 6003:18 6005:4 
+extent_server: getattr 4
+extent_server: getattr 5
+extent_server: get 4
+RPC STATS: 1:2 6001:7 6002:16 6003:19 6005:4 
+extent_server: get 5
+extent_server: get 1
+RPC STATS: 1:2 6001:8 6002:18 6003:19 6005:4 
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:8 6002:18 6003:22 6005:4 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: get 1
+RPC STATS: 1:2 6001:8 6002:20 6003:23 6005:4 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 3
+RPC STATS: 1:2 6001:8 6002:21 6003:25 6005:4 
+extent_server: getattr 2
+extent_server: create inode
+extent_server: get 3
+RPC STATS: 1:2 6001:8 6002:23 6003:25 6005:5 
+extent_server: get 2
+extent_server: get 2
+RPC STATS: 1:2 6001:9 6002:24 6003:25 6005:6 
+extent_server: create inode
+extent_server: get 2
+extent_server: getattr 6
+RPC STATS: 1:2 6001:10 6002:25 6003:26 6005:6 
+extent_server: getattr 6
+extent_server: getattr 7
+RPC STATS: 1:2 6001:10 6002:25 6003:29 6005:6 
+extent_server: getattr 7
+extent_server: get 6
+RPC STATS: 1:2 6001:11 6002:27 6003:29 6005:6 
+extent_server: get 7
+extent_server: get 1
+RPC STATS: 1:2 6001:12 6002:28 6003:30 6005:6 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: get 1
+RPC STATS: 1:2 6001:12 6002:29 6003:32 6005:6 
+extent_server: getattr 2
+extent_server: getattr 3
+extent_server: getattr 2
+RPC STATS: 1:2 6001:12 6002:29 6003:35 6005:6 
+extent_server: getattr 2
+extent_server: get 3
+extent_server: get 2
+RPC STATS: 1:2 6001:12 6002:32 6003:35 6005:6 
+extent_server: get 2
+extent_server: get 3
+extent_server: create inode
+RPC STATS: 1:2 6001:12 6002:34 6003:35 6005:7 
+extent_server: get 2
+extent_server: create inode
+RPC STATS: 1:2 6001:13 6002:34 6003:36 6005:8 
+extent_server: getattr 8
+extent_server: get 3
+extent_server: getattr 8
+RPC STATS: 1:2 6001:14 6002:35 6003:37 6005:8 
+extent_server: get 8
+RPC STATS: 1:2 6001:15 6002:36 6003:38 6005:8 
+extent_server: getattr 9
+extent_server: getattr 9
+extent_server: get 1
+RPC STATS: 1:2 6001:15 6002:37 6003:40 6005:8 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 9
+RPC STATS: 1:2 6001:15 6002:38 6003:42 6005:8 
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:16 6002:40 6003:42 6005:8 
+extent_server: get 2
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:16 6002:42 6003:42 6005:9 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:17 6002:42 6003:44 6005:9 
+extent_server: getattr 10
+extent_server: getattr 10
+extent_server: getattr 3
+RPC STATS: 1:2 6001:17 6002:42 6003:47 6005:9 
+extent_server: getattr 3
+extent_server: get 10
+extent_server: get 3
+RPC STATS: 1:2 6001:18 6002:44 6003:47 6005:9 
+extent_server: get 1
+extent_server: get 3
+RPC STATS: 1:2 6001:18 6002:46 6003:47 6005:10 
+extent_server: create inode
+extent_server: getattr 2
+extent_server: get 3
+RPC STATS: 1:2 6001:18 6002:47 6003:49 6005:10 
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:19 6002:47 6003:51 6005:10 
+extent_server: getattr 11
+extent_server: get 2
+extent_server: getattr 11
+RPC STATS: 1:2 6001:19 6002:49 6003:52 6005:10 
+extent_server: get 11
+extent_server: get 2
+extent_server: create inode
+RPC STATS: 1:2 6001:20 6002:50 6003:52 6005:11 
+extent_server: get 2
+RPC STATS: 1:2 6001:21 6002:52 6003:52 6005:11 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:21 6002:52 6003:55 6005:11 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: get 3
+RPC STATS: 1:2 6001:21 6002:54 6003:55 6005:12 
+extent_server: create inode
+extent_server: get 3
+RPC STATS: 1:2 6001:22 6002:55 6003:56 6005:12 
+extent_server: getattr 13
+extent_server: getattr 13
+extent_server: get 13
+RPC STATS: 1:2 6001:23 6002:56 6003:57 6005:12 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:23 6002:57 6003:59 6005:12 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:23 6002:59 6003:60 6005:12 
+extent_server: get 3
+extent_server: create inode
+extent_server: get 3
+RPC STATS: 1:2 6001:24 6002:60 6003:60 6005:13 
+extent_server: getattr 14
+extent_server: getattr 14
+RPC STATS: 1:2 6001:24 6002:61 6003:62 6005:13 
+extent_server: get 14
+extent_server: get 1
+RPC STATS: 1:2 6001:25 6002:62 6003:63 6005:13 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:25 6002:63 6003:65 6005:13 
+extent_server: get 3
+extent_server: get 3
+extent_server: create inode
+RPC STATS: 1:2 6001:25 6002:65 6003:65 6005:14 
+extent_server: get 3
+extent_server: getattr 15
+RPC STATS: 1:2 6001:26 6002:65 6003:67 6005:14 
+extent_server: getattr 15
+extent_server: get 15
+RPC STATS: 1:2 6001:27 6002:67 6003:67 6005:14 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:27 6002:67 6003:70 6005:14 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: get 3
+RPC STATS: 1:2 6001:27 6002:69 6003:70 6005:15 
+extent_server: create inode
+extent_server: get 3
+RPC STATS: 1:2 6001:28 6002:70 6003:71 6005:15 
+extent_server: getattr 16
+extent_server: getattr 16
+extent_server: get 16
+RPC STATS: 1:2 6001:29 6002:71 6003:72 6005:15 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:29 6002:72 6003:74 6005:15 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:29 6002:74 6003:75 6005:15 
+extent_server: get 3
+extent_server: create inode
+extent_server: get 3
+RPC STATS: 1:2 6001:30 6002:75 6003:75 6005:16 
+extent_server: getattr 17
+extent_server: getattr 17
+RPC STATS: 1:2 6001:30 6002:76 6003:77 6005:16 
+extent_server: get 17
+extent_server: get 1
+RPC STATS: 1:2 6001:31 6002:77 6003:78 6005:16 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:31 6002:78 6003:80 6005:16 
+extent_server: get 3
+extent_server: get 3
+extent_server: create inode
+RPC STATS: 1:2 6001:31 6002:80 6003:80 6005:17 
+extent_server: get 3
+extent_server: getattr 18
+RPC STATS: 1:2 6001:32 6002:80 6003:82 6005:17 
+extent_server: getattr 18
+extent_server: get 18
+RPC STATS: 1:2 6001:33 6002:82 6003:82 6005:17 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:33 6002:82 6003:85 6005:17 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: get 3
+RPC STATS: 1:2 6001:33 6002:84 6003:85 6005:18 
+extent_server: create inode
+extent_server: get 3
+RPC STATS: 1:2 6001:34 6002:85 6003:86 6005:18 
+extent_server: getattr 19
+extent_server: getattr 19
+extent_server: get 19
+RPC STATS: 1:2 6001:35 6002:86 6003:87 6005:18 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:35 6002:87 6003:89 6005:18 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:35 6002:89 6003:90 6005:18 
+extent_server: get 3
+extent_server: create inode
+extent_server: get 3
+RPC STATS: 1:2 6001:36 6002:90 6003:90 6005:19 
+extent_server: getattr 20
+extent_server: getattr 20
+RPC STATS: 1:2 6001:36 6002:91 6003:92 6005:19 
+extent_server: get 20
+extent_server: get 1
+RPC STATS: 1:2 6001:37 6002:92 6003:93 6005:19 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:37 6002:93 6003:95 6005:19 
+extent_server: get 3
+extent_server: get 3
+extent_server: create inode
+RPC STATS: 1:2 6001:37 6002:95 6003:95 6005:20 
+extent_server: get 3
+extent_server: getattr 12
+RPC STATS: 1:2 6001:38 6002:95 6003:97 6005:20 
+extent_server: getattr 12
+extent_server: get 12
+RPC STATS: 1:2 6001:39 6002:97 6003:97 6005:20 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:39 6002:97 6003:100 6005:20 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: get 2
+RPC STATS: 1:2 6001:39 6002:99 6003:100 6005:21 
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:40 6002:100 6003:101 6005:21 
+extent_server: getattr 22
+extent_server: getattr 22
+extent_server: get 22
+RPC STATS: 1:2 6001:41 6002:101 6003:102 6005:21 
+extent_server: get 1
+extent_server: getattr 2
+RPC STATS: 1:2 6001:41 6002:102 6003:104 6005:21 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:41 6002:104 6003:105 6005:21 
+extent_server: get 2
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:42 6002:105 6003:105 6005:22 
+extent_server: getattr 21
+extent_server: getattr 21
+RPC STATS: 1:2 6001:42 6002:106 6003:107 6005:22 
+extent_server: get 21
+extent_server: get 1
+RPC STATS: 1:2 6001:43 6002:107 6003:108 6005:22 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:43 6002:108 6003:110 6005:22 
+extent_server: get 3
+extent_server: get 3
+extent_server: create inode
+RPC STATS: 1:2 6001:43 6002:110 6003:110 6005:23 
+extent_server: get 3
+extent_server: getattr 24
+RPC STATS: 1:2 6001:44 6002:110 6003:112 6005:23 
+extent_server: getattr 24
+extent_server: get 24
+RPC STATS: 1:2 6001:45 6002:112 6003:112 6005:23 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:45 6002:112 6003:115 6005:23 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: get 3
+RPC STATS: 1:2 6001:45 6002:114 6003:115 6005:24 
+extent_server: create inode
+extent_server: get 3
+RPC STATS: 1:2 6001:46 6002:115 6003:116 6005:24 
+extent_server: getattr 25
+extent_server: getattr 25
+extent_server: get 25
+RPC STATS: 1:2 6001:47 6002:116 6003:117 6005:24 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:47 6002:117 6003:119 6005:24 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:47 6002:119 6003:120 6005:24 
+extent_server: get 3
+extent_server: create inode
+extent_server: get 3
+RPC STATS: 1:2 6001:48 6002:120 6003:120 6005:25 
+extent_server: getattr 26
+extent_server: getattr 26
+RPC STATS: 1:2 6001:48 6002:121 6003:122 6005:25 
+extent_server: get 26
+extent_server: get 1
+RPC STATS: 1:2 6001:49 6002:122 6003:123 6005:25 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:49 6002:123 6003:125 6005:25 
+extent_server: get 3
+extent_server: get 3
+extent_server: create inode
+RPC STATS: 1:2 6001:49 6002:125 6003:125 6005:26 
+extent_server: get 3
+extent_server: getattr 27
+RPC STATS: 1:2 6001:50 6002:125 6003:127 6005:26 
+extent_server: getattr 27
+extent_server: get 27
+RPC STATS: 1:2 6001:51 6002:127 6003:127 6005:26 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:51 6002:127 6003:130 6005:26 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: get 3
+RPC STATS: 1:2 6001:51 6002:129 6003:130 6005:27 
+extent_server: create inode
+extent_server: get 3
+RPC STATS: 1:2 6001:52 6002:130 6003:131 6005:27 
+extent_server: getattr 28
+extent_server: getattr 28
+extent_server: get 28
+RPC STATS: 1:2 6001:53 6002:131 6003:132 6005:27 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:53 6002:132 6003:134 6005:27 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:53 6002:134 6003:135 6005:27 
+extent_server: get 3
+extent_server: create inode
+extent_server: get 3
+RPC STATS: 1:2 6001:54 6002:135 6003:135 6005:28 
+extent_server: getattr 29
+extent_server: getattr 29
+RPC STATS: 1:2 6001:54 6002:136 6003:137 6005:28 
+extent_server: get 29
+extent_server: get 1
+RPC STATS: 1:2 6001:55 6002:137 6003:138 6005:28 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:55 6002:138 6003:140 6005:28 
+extent_server: get 3
+extent_server: get 3
+extent_server: create inode
+RPC STATS: 1:2 6001:55 6002:140 6003:140 6005:29 
+extent_server: get 3
+extent_server: getattr 30
+RPC STATS: 1:2 6001:56 6002:140 6003:142 6005:29 
+extent_server: getattr 30
+extent_server: get 30
+RPC STATS: 1:2 6001:57 6002:142 6003:142 6005:29 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:57 6002:142 6003:145 6005:29 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: get 3
+RPC STATS: 1:2 6001:57 6002:144 6003:145 6005:30 
+extent_server: create inode
+extent_server: get 3
+RPC STATS: 1:2 6001:58 6002:145 6003:146 6005:30 
+extent_server: getattr 31
+extent_server: getattr 31
+extent_server: get 31
+RPC STATS: 1:2 6001:59 6002:146 6003:147 6005:30 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:59 6002:147 6003:149 6005:30 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:59 6002:149 6003:150 6005:30 
+extent_server: get 3
+extent_server: create inode
+extent_server: get 3
+RPC STATS: 1:2 6001:60 6002:150 6003:150 6005:31 
+extent_server: getattr 32
+extent_server: getattr 32
+RPC STATS: 1:2 6001:60 6002:151 6003:152 6005:31 
+extent_server: get 32
+extent_server: get 1
+RPC STATS: 1:2 6001:61 6002:152 6003:153 6005:31 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:61 6002:153 6003:155 6005:31 
+extent_server: get 3
+extent_server: get 3
+extent_server: create inode
+RPC STATS: 1:2 6001:61 6002:155 6003:155 6005:32 
+extent_server: get 3
+extent_server: getattr 23
+RPC STATS: 1:2 6001:62 6002:155 6003:157 6005:32 
+extent_server: getattr 23
+extent_server: get 23
+RPC STATS: 1:2 6001:63 6002:157 6003:157 6005:32 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:63 6002:157 6003:160 6005:32 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: get 2
+RPC STATS: 1:2 6001:63 6002:159 6003:160 6005:33 
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:64 6002:160 6003:161 6005:33 
+extent_server: getattr 34
+extent_server: getattr 34
+extent_server: get 34
+RPC STATS: 1:2 6001:65 6002:161 6003:162 6005:33 
+extent_server: get 1
+extent_server: getattr 2
+RPC STATS: 1:2 6001:65 6002:162 6003:164 6005:33 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:65 6002:164 6003:165 6005:33 
+extent_server: get 2
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:66 6002:165 6003:165 6005:34 
+extent_server: getattr 35
+extent_server: getattr 35
+RPC STATS: 1:2 6001:66 6002:166 6003:167 6005:34 
+extent_server: get 35
+extent_server: get 1
+RPC STATS: 1:2 6001:67 6002:167 6003:168 6005:34 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:67 6002:168 6003:170 6005:34 
+extent_server: get 2
+extent_server: get 2
+extent_server: create inode
+RPC STATS: 1:2 6001:67 6002:170 6003:170 6005:35 
+extent_server: get 2
+extent_server: getattr 36
+RPC STATS: 1:2 6001:68 6002:170 6003:172 6005:35 
+extent_server: getattr 36
+extent_server: get 36
+RPC STATS: 1:2 6001:69 6002:172 6003:172 6005:35 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:69 6002:172 6003:175 6005:35 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: get 2
+RPC STATS: 1:2 6001:69 6002:174 6003:175 6005:36 
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:70 6002:175 6003:176 6005:36 
+extent_server: getattr 37
+extent_server: getattr 37
+extent_server: get 37
+RPC STATS: 1:2 6001:71 6002:176 6003:177 6005:36 
+extent_server: get 1
+extent_server: getattr 2
+RPC STATS: 1:2 6001:71 6002:177 6003:179 6005:36 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:71 6002:179 6003:180 6005:36 
+extent_server: get 2
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:72 6002:180 6003:180 6005:37 
+extent_server: getattr 38
+extent_server: getattr 38
+RPC STATS: 1:2 6001:72 6002:181 6003:182 6005:37 
+extent_server: get 38
+extent_server: get 1
+RPC STATS: 1:2 6001:73 6002:182 6003:183 6005:37 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:73 6002:183 6003:185 6005:37 
+extent_server: get 2
+extent_server: get 2
+extent_server: create inode
+RPC STATS: 1:2 6001:73 6002:185 6003:185 6005:38 
+extent_server: get 2
+extent_server: getattr 39
+RPC STATS: 1:2 6001:74 6002:185 6003:187 6005:38 
+extent_server: getattr 39
+extent_server: get 39
+RPC STATS: 1:2 6001:75 6002:187 6003:187 6005:38 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:75 6002:187 6003:190 6005:38 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: get 2
+RPC STATS: 1:2 6001:75 6002:189 6003:190 6005:39 
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:76 6002:190 6003:191 6005:39 
+extent_server: getattr 33
+extent_server: getattr 40
+extent_server: getattr 33
+RPC STATS: 1:2 6001:76 6002:190 6003:194 6005:39 
+extent_server: getattr 40
+extent_server: get 33
+extent_server: get 40
+RPC STATS: 1:2 6001:77 6002:192 6003:194 6005:39 
+extent_server: get 1
+RPC STATS: 1:2 6001:78 6002:194 6003:194 6005:39 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 2
+RPC STATS: 1:2 6001:78 6002:194 6003:197 6005:39 
+extent_server: getattr 3
+extent_server: getattr 2
+extent_server: getattr 3
+RPC STATS: 1:2 6001:78 6002:194 6003:200 6005:39 
+extent_server: getattr 2
+extent_server: get 3
+extent_server: get 2
+RPC STATS: 1:2 6001:78 6002:197 6003:200 6005:39 
+extent_server: get 3
+extent_server: get 2
+extent_server: create inode
+RPC STATS: 1:2 6001:78 6002:198 6003:200 6005:41 
+extent_server: create inode
+extent_server: get 3
+extent_server: get 2
+RPC STATS: 1:2 6001:79 6002:200 6003:200 6005:41 
+extent_server: getattr 41
+RPC STATS: 1:2 6001:80 6002:200 6003:202 6005:41 
+extent_server: getattr 42
+extent_server: getattr 41
+extent_server: getattr 42
+RPC STATS: 1:2 6001:80 6002:201 6003:204 6005:41 
+extent_server: get 41
+extent_server: get 42
+RPC STATS: 1:2 6001:81 6002:203 6003:204 6005:41 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:82 6002:204 6003:205 6005:41 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 2
+RPC STATS: 1:2 6001:82 6002:204 6003:208 6005:41 
+extent_server: getattr 3
+extent_server: getattr 2
+extent_server: get 3
+RPC STATS: 1:2 6001:82 6002:205 6003:210 6005:41 
+extent_server: getattr 2
+extent_server: get 3
+extent_server: get 2
+RPC STATS: 1:2 6001:82 6002:207 6003:210 6005:42 
+extent_server: create inode
+extent_server: get 2
+extent_server: get 3
+RPC STATS: 1:2 6001:82 6002:209 6003:210 6005:43 
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:83 6002:210 6003:211 6005:43 
+extent_server: getattr 43
+extent_server: getattr 43
+RPC STATS: 1:2 6001:84 6002:210 6003:213 6005:43 
+extent_server: getattr 44
+extent_server: get 43
+extent_server: getattr 44
+RPC STATS: 1:2 6001:85 6002:211 6003:214 6005:43 
+extent_server: get 44
+extent_server: get 1
+RPC STATS: 1:2 6001:86 6002:213 6003:214 6005:43 
+extent_server: getattr 3
+extent_server: get 1
+RPC STATS: 1:2 6001:86 6002:214 6003:216 6005:43 
+extent_server: getattr 3
+extent_server: getattr 2
+extent_server: getattr 3
+RPC STATS: 1:2 6001:86 6002:214 6003:219 6005:43 
+extent_server: getattr 2
+extent_server: get 3
+extent_server: getattr 2
+RPC STATS: 1:2 6001:86 6002:216 6003:220 6005:43 
+extent_server: get 3
+extent_server: get 2
+extent_server: create inode
+RPC STATS: 1:2 6001:86 6002:218 6003:220 6005:44 
+extent_server: get 3
+extent_server: get 2
+RPC STATS: 1:2 6001:87 6002:219 6003:220 6005:45 
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:88 6002:220 6003:221 6005:45 
+extent_server: getattr 46
+extent_server: getattr 46
+extent_server: get 46
+RPC STATS: 1:2 6001:89 6002:221 6003:222 6005:45 
+extent_server: get 1
+extent_server: getattr 2
+RPC STATS: 1:2 6001:89 6002:222 6003:224 6005:45 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:89 6002:224 6003:225 6005:45 
+extent_server: get 2
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:90 6002:225 6003:225 6005:46 
+extent_server: getattr 47
+extent_server: getattr 47
+RPC STATS: 1:2 6001:90 6002:226 6003:227 6005:46 
+extent_server: get 47
+extent_server: get 1
+RPC STATS: 1:2 6001:91 6002:227 6003:228 6005:46 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:91 6002:228 6003:230 6005:46 
+extent_server: get 2
+extent_server: get 2
+extent_server: create inode
+RPC STATS: 1:2 6001:91 6002:230 6003:230 6005:47 
+extent_server: get 2
+extent_server: getattr 45
+RPC STATS: 1:2 6001:92 6002:230 6003:232 6005:47 
+extent_server: getattr 45
+extent_server: get 45
+RPC STATS: 1:2 6001:93 6002:232 6003:232 6005:47 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:93 6002:232 6003:235 6005:47 
+extent_server: getattr 48
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:93 6002:234 6003:236 6005:47 
+extent_server: get 3
+extent_server: getattr 48
+extent_server: create inode
+RPC STATS: 1:2 6001:93 6002:235 6003:237 6005:48 
+extent_server: get 3
+extent_server: get 48
+RPC STATS: 1:2 6001:94 6002:236 6003:238 6005:48 
+extent_server: getattr 49
+extent_server: getattr 49
+RPC STATS: 1:2 6001:95 6002:237 6003:239 6005:48 
+extent_server: get 1
+extent_server: get 49
+RPC STATS: 1:2 6001:96 6002:239 6003:239 6005:48 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:96 6002:239 6003:242 6005:48 
+extent_server: getattr 2
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:96 6002:241 6003:243 6005:48 
+extent_server: get 3
+extent_server: getattr 2
+extent_server: create inode
+RPC STATS: 1:2 6001:96 6002:241 6003:245 6005:49 
+extent_server: getattr 2
+extent_server: get 3
+RPC STATS: 1:2 6001:97 6002:243 6003:245 6005:49 
+extent_server: get 2
+extent_server: getattr 50
+extent_server: getattr 50
+RPC STATS: 1:2 6001:97 6002:244 6003:247 6005:49 
+extent_server: get 2
+extent_server: get 50
+extent_server: create inode
+RPC STATS: 1:2 6001:98 6002:245 6003:247 6005:50 
+extent_server: get 1
+extent_server: get 2
+RPC STATS: 1:2 6001:98 6002:247 6003:248 6005:50 
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:99 6002:247 6003:250 6005:50 
+extent_server: getattr 51
+extent_server: getattr 3
+extent_server: getattr 51
+RPC STATS: 1:2 6001:99 6002:248 6003:252 6005:50 
+extent_server: get 3
+extent_server: get 51
+RPC STATS: 1:2 6001:100 6002:250 6003:252 6005:50 
+extent_server: get 3
+extent_server: get 1
+extent_server: create inode
+RPC STATS: 1:2 6001:100 6002:251 6003:253 6005:51 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 3
+RPC STATS: 1:2 6001:100 6002:252 6003:255 6005:51 
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:101 6002:253 6003:256 6005:51 
+extent_server: getattr 52
+extent_server: getattr 52
+extent_server: get 2
+RPC STATS: 1:2 6001:101 6002:255 6003:257 6005:51 
+extent_server: get 52
+extent_server: create inode
+RPC STATS: 1:2 6001:102 6002:256 6003:257 6005:52 
+extent_server: get 2
+extent_server: get 1
+RPC STATS: 1:2 6001:103 6002:257 6003:258 6005:52 
+extent_server: getattr 3
+extent_server: getattr 53
+extent_server: getattr 3
+RPC STATS: 1:2 6001:103 6002:257 6003:261 6005:52 
+extent_server: getattr 53
+extent_server: getattr 3
+extent_server: get 53
+RPC STATS: 1:2 6001:103 6002:259 6003:262 6005:52 
+extent_server: get 3
+extent_server: get 3
+extent_server: create inode
+RPC STATS: 1:2 6001:104 6002:260 6003:262 6005:53 
+extent_server: get 3
+extent_server: get 1
+RPC STATS: 1:2 6001:105 6002:262 6003:262 6005:53 
+extent_server: getattr 2
+extent_server: getattr 54
+RPC STATS: 1:2 6001:105 6002:262 6003:265 6005:53 
+extent_server: getattr 2
+extent_server: getattr 54
+extent_server: getattr 2
+RPC STATS: 1:2 6001:105 6002:263 6003:267 6005:53 
+extent_server: get 54
+extent_server: get 2
+RPC STATS: 1:2 6001:106 6002:265 6003:267 6005:53 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:106 6002:265 6003:270 6005:53 
+extent_server: getattr 3
+extent_server: get 2
+extent_server: get 3
+RPC STATS: 1:2 6001:106 6002:267 6003:270 6005:54 
+extent_server: create inode
+extent_server: get 3
+extent_server: get 2
+RPC STATS: 1:2 6001:106 6002:269 6003:270 6005:55 
+extent_server: create inode
+extent_server: get 3
+RPC STATS: 1:2 6001:108 6002:270 6003:270 6005:55 
+extent_server: getattr 56
+extent_server: getattr 56
+RPC STATS: 1:2 6001:108 6002:271 6003:272 6005:55 
+extent_server: get 56
+extent_server: get 1
+RPC STATS: 1:2 6001:109 6002:272 6003:273 6005:55 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:109 6002:273 6003:275 6005:55 
+extent_server: get 3
+extent_server: get 3
+extent_server: create inode
+RPC STATS: 1:2 6001:109 6002:275 6003:275 6005:56 
+extent_server: get 3
+extent_server: getattr 57
+RPC STATS: 1:2 6001:110 6002:275 6003:277 6005:56 
+extent_server: getattr 57
+extent_server: get 57
+RPC STATS: 1:2 6001:111 6002:277 6003:277 6005:56 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:111 6002:277 6003:280 6005:56 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: get 3
+RPC STATS: 1:2 6001:111 6002:279 6003:280 6005:57 
+extent_server: create inode
+extent_server: get 3
+RPC STATS: 1:2 6001:112 6002:280 6003:281 6005:57 
+extent_server: getattr 58
+extent_server: getattr 58
+extent_server: get 58
+RPC STATS: 1:2 6001:113 6002:281 6003:282 6005:57 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:113 6002:282 6003:284 6005:57 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:113 6002:284 6003:285 6005:57 
+extent_server: get 3
+extent_server: create inode
+extent_server: get 3
+RPC STATS: 1:2 6001:114 6002:285 6003:285 6005:58 
+extent_server: getattr 59
+extent_server: getattr 59
+RPC STATS: 1:2 6001:114 6002:286 6003:287 6005:58 
+extent_server: get 59
+extent_server: get 1
+RPC STATS: 1:2 6001:115 6002:287 6003:288 6005:58 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:115 6002:288 6003:290 6005:58 
+extent_server: get 3
+extent_server: get 3
+extent_server: create inode
+RPC STATS: 1:2 6001:115 6002:290 6003:290 6005:59 
+extent_server: get 3
+extent_server: getattr 60
+RPC STATS: 1:2 6001:116 6002:290 6003:292 6005:59 
+extent_server: getattr 60
+extent_server: get 60
+RPC STATS: 1:2 6001:117 6002:292 6003:292 6005:59 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:117 6002:292 6003:295 6005:59 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: get 3
+RPC STATS: 1:2 6001:117 6002:294 6003:295 6005:60 
+extent_server: create inode
+extent_server: get 3
+RPC STATS: 1:2 6001:118 6002:295 6003:296 6005:60 
+extent_server: getattr 61
+extent_server: getattr 61
+extent_server: get 61
+RPC STATS: 1:2 6001:119 6002:296 6003:297 6005:60 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:119 6002:297 6003:299 6005:60 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:119 6002:299 6003:300 6005:60 
+extent_server: get 3
+extent_server: create inode
+extent_server: get 3
+RPC STATS: 1:2 6001:120 6002:300 6003:300 6005:61 
+extent_server: getattr 62
+extent_server: getattr 62
+RPC STATS: 1:2 6001:120 6002:301 6003:302 6005:61 
+extent_server: get 62
+extent_server: get 1
+RPC STATS: 1:2 6001:121 6002:302 6003:303 6005:61 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:121 6002:303 6003:305 6005:61 
+extent_server: get 3
+extent_server: get 3
+extent_server: create inode
+RPC STATS: 1:2 6001:121 6002:305 6003:305 6005:62 
+extent_server: get 3
+extent_server: getattr 63
+RPC STATS: 1:2 6001:122 6002:305 6003:307 6005:62 
+extent_server: getattr 63
+extent_server: get 63
+RPC STATS: 1:2 6001:123 6002:307 6003:307 6005:62 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:123 6002:307 6003:310 6005:62 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: get 3
+RPC STATS: 1:2 6001:123 6002:309 6003:310 6005:63 
+extent_server: create inode
+extent_server: get 3
+RPC STATS: 1:2 6001:124 6002:310 6003:311 6005:63 
+extent_server: getattr 64
+extent_server: getattr 64
+extent_server: get 64
+RPC STATS: 1:2 6001:125 6002:311 6003:312 6005:63 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:125 6002:312 6003:314 6005:63 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:125 6002:314 6003:315 6005:63 
+extent_server: get 3
+extent_server: create inode
+extent_server: get 3
+RPC STATS: 1:2 6001:126 6002:315 6003:315 6005:64 
+extent_server: getattr 55
+extent_server: getattr 55
+RPC STATS: 1:2 6001:126 6002:316 6003:317 6005:64 
+extent_server: get 55
+extent_server: get 1
+RPC STATS: 1:2 6001:127 6002:317 6003:318 6005:64 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:127 6002:318 6003:320 6005:64 
+extent_server: get 2
+extent_server: get 2
+extent_server: create inode
+RPC STATS: 1:2 6001:127 6002:320 6003:320 6005:65 
+extent_server: get 2
+extent_server: getattr 66
+RPC STATS: 1:2 6001:128 6002:320 6003:322 6005:65 
+extent_server: getattr 66
+extent_server: get 66
+RPC STATS: 1:2 6001:129 6002:322 6003:322 6005:65 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:129 6002:322 6003:325 6005:65 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: get 2
+RPC STATS: 1:2 6001:129 6002:324 6003:325 6005:66 
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:130 6002:325 6003:326 6005:66 
+extent_server: getattr 67
+extent_server: getattr 67
+extent_server: get 67
+RPC STATS: 1:2 6001:131 6002:326 6003:327 6005:66 
+extent_server: get 1
+extent_server: getattr 2
+RPC STATS: 1:2 6001:131 6002:327 6003:329 6005:66 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:131 6002:329 6003:330 6005:66 
+extent_server: get 2
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:132 6002:330 6003:330 6005:67 
+extent_server: getattr 68
+extent_server: getattr 68
+RPC STATS: 1:2 6001:132 6002:331 6003:332 6005:67 
+extent_server: get 68
+extent_server: get 1
+RPC STATS: 1:2 6001:133 6002:332 6003:333 6005:67 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:133 6002:333 6003:335 6005:67 
+extent_server: get 2
+extent_server: get 2
+extent_server: create inode
+RPC STATS: 1:2 6001:133 6002:335 6003:335 6005:68 
+extent_server: get 2
+extent_server: getattr 69
+RPC STATS: 1:2 6001:134 6002:335 6003:337 6005:68 
+extent_server: getattr 69
+extent_server: get 69
+RPC STATS: 1:2 6001:135 6002:337 6003:337 6005:68 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:135 6002:337 6003:340 6005:68 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: get 2
+RPC STATS: 1:2 6001:135 6002:339 6003:340 6005:69 
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:136 6002:340 6003:341 6005:69 
+extent_server: getattr 70
+extent_server: getattr 70
+extent_server: get 70
+RPC STATS: 1:2 6001:137 6002:341 6003:342 6005:69 
+extent_server: get 1
+extent_server: getattr 2
+RPC STATS: 1:2 6001:137 6002:342 6003:344 6005:69 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:137 6002:344 6003:345 6005:69 
+extent_server: get 2
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:138 6002:345 6003:345 6005:70 
+extent_server: getattr 71
+extent_server: getattr 71
+RPC STATS: 1:2 6001:138 6002:346 6003:347 6005:70 
+extent_server: get 71
+extent_server: get 1
+RPC STATS: 1:2 6001:139 6002:347 6003:348 6005:70 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:139 6002:348 6003:350 6005:70 
+extent_server: get 2
+extent_server: get 2
+extent_server: create inode
+RPC STATS: 1:2 6001:139 6002:350 6003:350 6005:71 
+extent_server: get 2
+extent_server: getattr 72
+RPC STATS: 1:2 6001:140 6002:350 6003:352 6005:71 
+extent_server: getattr 72
+extent_server: get 72
+RPC STATS: 1:2 6001:141 6002:352 6003:352 6005:71 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:141 6002:352 6003:355 6005:71 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: get 2
+RPC STATS: 1:2 6001:141 6002:354 6003:355 6005:72 
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:142 6002:355 6003:356 6005:72 
+extent_server: getattr 73
+extent_server: getattr 73
+extent_server: get 73
+RPC STATS: 1:2 6001:143 6002:356 6003:357 6005:72 
+extent_server: get 1
+extent_server: getattr 2
+RPC STATS: 1:2 6001:143 6002:357 6003:359 6005:72 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:143 6002:359 6003:360 6005:72 
+extent_server: get 2
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:144 6002:360 6003:360 6005:73 
+extent_server: getattr 65
+extent_server: getattr 65
+RPC STATS: 1:2 6001:144 6002:360 6003:363 6005:73 
+extent_server: getattr 74
+extent_server: get 65
+extent_server: getattr 74
+RPC STATS: 1:2 6001:145 6002:361 6003:364 6005:73 
+extent_server: get 74
+extent_server: get 1
+RPC STATS: 1:2 6001:146 6002:363 6003:364 6005:73 
+extent_server: getattr 3
+extent_server: get 1
+RPC STATS: 1:2 6001:146 6002:364 6003:366 6005:73 
+extent_server: getattr 3
+extent_server: getattr 2
+extent_server: getattr 3
+RPC STATS: 1:2 6001:146 6002:364 6003:369 6005:73 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 3
+RPC STATS: 1:2 6001:146 6002:366 6003:370 6005:73 
+extent_server: get 2
+extent_server: get 3
+extent_server: create inode
+RPC STATS: 1:2 6001:146 6002:368 6003:370 6005:74 
+extent_server: get 2
+extent_server: get 3
+extent_server: create inode
+RPC STATS: 1:2 6001:147 6002:369 6003:370 6005:75 
+extent_server: get 2
+RPC STATS: 1:2 6001:148 6002:370 6003:371 6005:75 
+extent_server: getattr 75
+extent_server: getattr 75
+extent_server: getattr 76
+RPC STATS: 1:2 6001:148 6002:371 6003:373 6005:75 
+extent_server: get 75
+extent_server: getattr 76
+RPC STATS: 1:2 6001:149 6002:372 6003:374 6005:75 
+extent_server: get 1
+extent_server: get 76
+extent_server: getattr 3
+RPC STATS: 1:2 6001:150 6002:373 6003:375 6005:75 
+extent_server: getattr 3
+extent_server: get 1
+RPC STATS: 1:2 6001:150 6002:374 6003:377 6005:75 
+extent_server: getattr 3
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:150 6002:375 6003:379 6005:75 
+extent_server: get 3
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:150 6002:377 6003:380 6005:75 
+extent_server: get 3
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:150 6002:379 6003:380 6005:76 
+extent_server: get 3
+extent_server: create inode
+RPC STATS: 1:2 6001:151 6002:380 6003:380 6005:77 
+extent_server: get 2
+extent_server: getattr 77
+RPC STATS: 1:2 6001:152 6002:380 6003:382 6005:77 
+extent_server: getattr 77
+extent_server: get 77
+RPC STATS: 1:2 6001:153 6002:382 6003:382 6005:77 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:153 6002:382 6003:385 6005:77 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: get 3
+RPC STATS: 1:2 6001:153 6002:384 6003:385 6005:78 
+extent_server: create inode
+extent_server: get 3
+RPC STATS: 1:2 6001:154 6002:385 6003:386 6005:78 
+extent_server: getattr 79
+extent_server: getattr 79
+extent_server: get 79
+RPC STATS: 1:2 6001:155 6002:386 6003:387 6005:78 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:155 6002:387 6003:389 6005:78 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:155 6002:389 6003:390 6005:78 
+extent_server: get 3
+extent_server: create inode
+extent_server: get 3
+RPC STATS: 1:2 6001:156 6002:390 6003:390 6005:79 
+extent_server: getattr 80
+extent_server: getattr 80
+RPC STATS: 1:2 6001:156 6002:391 6003:392 6005:79 
+extent_server: get 80
+extent_server: get 1
+RPC STATS: 1:2 6001:157 6002:392 6003:393 6005:79 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:157 6002:393 6003:395 6005:79 
+extent_server: get 3
+extent_server: get 3
+extent_server: create inode
+RPC STATS: 1:2 6001:157 6002:395 6003:395 6005:80 
+extent_server: get 3
+extent_server: getattr 81
+RPC STATS: 1:2 6001:158 6002:395 6003:397 6005:80 
+extent_server: getattr 81
+extent_server: get 81
+RPC STATS: 1:2 6001:159 6002:397 6003:397 6005:80 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:159 6002:397 6003:400 6005:80 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: get 3
+RPC STATS: 1:2 6001:159 6002:399 6003:400 6005:81 
+extent_server: create inode
+extent_server: get 3
+RPC STATS: 1:2 6001:160 6002:400 6003:401 6005:81 
+extent_server: getattr 82
+extent_server: getattr 82
+extent_server: get 82
+RPC STATS: 1:2 6001:161 6002:401 6003:402 6005:81 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:161 6002:402 6003:404 6005:81 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:161 6002:404 6003:405 6005:81 
+extent_server: get 3
+extent_server: create inode
+extent_server: get 3
+RPC STATS: 1:2 6001:162 6002:405 6003:405 6005:82 
+extent_server: getattr 83
+extent_server: getattr 83
+RPC STATS: 1:2 6001:162 6002:406 6003:407 6005:82 
+extent_server: get 83
+extent_server: get 1
+RPC STATS: 1:2 6001:163 6002:407 6003:408 6005:82 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:163 6002:408 6003:410 6005:82 
+extent_server: get 3
+extent_server: get 3
+extent_server: create inode
+RPC STATS: 1:2 6001:163 6002:410 6003:410 6005:83 
+extent_server: get 3
+extent_server: getattr 84
+RPC STATS: 1:2 6001:164 6002:410 6003:412 6005:83 
+extent_server: getattr 84
+extent_server: get 84
+RPC STATS: 1:2 6001:165 6002:412 6003:412 6005:83 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:165 6002:412 6003:415 6005:83 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: get 3
+RPC STATS: 1:2 6001:165 6002:414 6003:415 6005:84 
+extent_server: create inode
+extent_server: get 3
+RPC STATS: 1:2 6001:166 6002:415 6003:416 6005:84 
+extent_server: getattr 85
+extent_server: getattr 85
+extent_server: get 85
+RPC STATS: 1:2 6001:167 6002:416 6003:417 6005:84 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:167 6002:417 6003:419 6005:84 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:167 6002:419 6003:420 6005:84 
+extent_server: get 3
+extent_server: create inode
+extent_server: get 3
+RPC STATS: 1:2 6001:168 6002:420 6003:420 6005:85 
+extent_server: getattr 86
+extent_server: getattr 86
+RPC STATS: 1:2 6001:168 6002:421 6003:422 6005:85 
+extent_server: get 86
+extent_server: get 1
+RPC STATS: 1:2 6001:169 6002:422 6003:423 6005:85 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:169 6002:423 6003:425 6005:85 
+extent_server: get 3
+extent_server: get 3
+extent_server: create inode
+RPC STATS: 1:2 6001:169 6002:425 6003:425 6005:86 
+extent_server: get 3
+extent_server: getattr 87
+RPC STATS: 1:2 6001:170 6002:425 6003:427 6005:86 
+extent_server: getattr 87
+extent_server: get 87
+RPC STATS: 1:2 6001:171 6002:427 6003:427 6005:86 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:171 6002:427 6003:430 6005:86 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: get 3
+RPC STATS: 1:2 6001:171 6002:429 6003:430 6005:87 
+extent_server: create inode
+extent_server: get 3
+RPC STATS: 1:2 6001:172 6002:430 6003:431 6005:87 
+extent_server: getattr 88
+extent_server: getattr 88
+extent_server: get 88
+RPC STATS: 1:2 6001:173 6002:431 6003:432 6005:87 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:173 6002:432 6003:434 6005:87 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:173 6002:434 6003:435 6005:87 
+extent_server: get 3
+extent_server: create inode
+extent_server: get 3
+RPC STATS: 1:2 6001:174 6002:435 6003:435 6005:88 
+extent_server: getattr 89
+extent_server: getattr 89
+RPC STATS: 1:2 6001:174 6002:436 6003:437 6005:88 
+extent_server: get 89
+extent_server: get 1
+RPC STATS: 1:2 6001:175 6002:437 6003:438 6005:88 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:175 6002:438 6003:440 6005:88 
+extent_server: get 3
+extent_server: get 3
+extent_server: create inode
+RPC STATS: 1:2 6001:175 6002:440 6003:440 6005:89 
+extent_server: get 3
+extent_server: getattr 90
+RPC STATS: 1:2 6001:176 6002:440 6003:442 6005:89 
+extent_server: getattr 90
+extent_server: get 90
+RPC STATS: 1:2 6001:177 6002:442 6003:442 6005:89 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:177 6002:442 6003:445 6005:89 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: get 3
+RPC STATS: 1:2 6001:177 6002:444 6003:445 6005:90 
+extent_server: create inode
+extent_server: get 3
+RPC STATS: 1:2 6001:178 6002:445 6003:446 6005:90 
+extent_server: getattr 91
+extent_server: getattr 91
+extent_server: get 91
+RPC STATS: 1:2 6001:179 6002:446 6003:447 6005:90 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:179 6002:447 6003:449 6005:90 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:179 6002:449 6003:450 6005:90 
+extent_server: get 3
+extent_server: create inode
+extent_server: get 3
+RPC STATS: 1:2 6001:180 6002:450 6003:450 6005:91 
+extent_server: getattr 92
+extent_server: getattr 92
+RPC STATS: 1:2 6001:180 6002:451 6003:452 6005:91 
+extent_server: get 92
+extent_server: get 1
+RPC STATS: 1:2 6001:181 6002:452 6003:453 6005:91 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:181 6002:453 6003:455 6005:91 
+extent_server: get 3
+extent_server: get 3
+extent_server: create inode
+RPC STATS: 1:2 6001:181 6002:455 6003:455 6005:92 
+extent_server: get 3
+extent_server: getattr 93
+RPC STATS: 1:2 6001:182 6002:455 6003:457 6005:92 
+extent_server: getattr 93
+extent_server: get 93
+RPC STATS: 1:2 6001:183 6002:457 6003:457 6005:92 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:183 6002:457 6003:460 6005:92 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: get 3
+RPC STATS: 1:2 6001:183 6002:459 6003:460 6005:93 
+extent_server: create inode
+extent_server: get 3
+RPC STATS: 1:2 6001:184 6002:460 6003:461 6005:93 
+extent_server: getattr 94
+extent_server: getattr 94
+extent_server: get 94
+RPC STATS: 1:2 6001:185 6002:461 6003:462 6005:93 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:185 6002:462 6003:464 6005:93 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:185 6002:464 6003:465 6005:93 
+extent_server: get 3
+extent_server: create inode
+extent_server: get 3
+RPC STATS: 1:2 6001:186 6002:465 6003:465 6005:94 
+extent_server: getattr 95
+extent_server: getattr 95
+RPC STATS: 1:2 6001:186 6002:466 6003:467 6005:94 
+extent_server: get 95
+extent_server: get 1
+RPC STATS: 1:2 6001:187 6002:467 6003:468 6005:94 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:187 6002:468 6003:470 6005:94 
+extent_server: get 3
+extent_server: get 3
+extent_server: create inode
+RPC STATS: 1:2 6001:187 6002:470 6003:470 6005:95 
+extent_server: get 3
+extent_server: getattr 96
+RPC STATS: 1:2 6001:188 6002:470 6003:472 6005:95 
+extent_server: getattr 96
+extent_server: get 96
+RPC STATS: 1:2 6001:189 6002:472 6003:472 6005:95 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:189 6002:472 6003:475 6005:95 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: get 3
+RPC STATS: 1:2 6001:189 6002:474 6003:475 6005:96 
+extent_server: create inode
+extent_server: get 3
+RPC STATS: 1:2 6001:190 6002:475 6003:476 6005:96 
+extent_server: getattr 97
+extent_server: getattr 97
+extent_server: get 97
+RPC STATS: 1:2 6001:191 6002:476 6003:477 6005:96 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:191 6002:477 6003:479 6005:96 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:191 6002:479 6003:480 6005:96 
+extent_server: get 3
+extent_server: create inode
+extent_server: get 3
+RPC STATS: 1:2 6001:192 6002:480 6003:480 6005:97 
+extent_server: getattr 98
+extent_server: getattr 98
+RPC STATS: 1:2 6001:192 6002:481 6003:482 6005:97 
+extent_server: get 98
+extent_server: get 1
+RPC STATS: 1:2 6001:193 6002:482 6003:483 6005:97 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:193 6002:483 6003:485 6005:97 
+extent_server: get 3
+extent_server: get 3
+extent_server: create inode
+RPC STATS: 1:2 6001:193 6002:485 6003:485 6005:98 
+extent_server: get 3
+extent_server: getattr 99
+RPC STATS: 1:2 6001:194 6002:485 6003:487 6005:98 
+extent_server: getattr 99
+extent_server: get 99
+RPC STATS: 1:2 6001:195 6002:487 6003:487 6005:98 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:195 6002:487 6003:490 6005:98 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: get 3
+RPC STATS: 1:2 6001:195 6002:489 6003:490 6005:99 
+extent_server: create inode
+extent_server: get 3
+RPC STATS: 1:2 6001:196 6002:490 6003:491 6005:99 
+extent_server: getattr 100
+extent_server: getattr 100
+extent_server: get 100
+RPC STATS: 1:2 6001:197 6002:491 6003:492 6005:99 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:197 6002:492 6003:494 6005:99 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:197 6002:494 6003:495 6005:99 
+extent_server: get 3
+extent_server: create inode
+extent_server: get 3
+RPC STATS: 1:2 6001:198 6002:495 6003:495 6005:100 
+extent_server: getattr 101
+extent_server: getattr 101
+RPC STATS: 1:2 6001:198 6002:496 6003:497 6005:100 
+extent_server: get 101
+extent_server: get 1
+RPC STATS: 1:2 6001:199 6002:497 6003:498 6005:100 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:199 6002:498 6003:500 6005:100 
+extent_server: get 3
+extent_server: get 3
+extent_server: create inode
+RPC STATS: 1:2 6001:199 6002:500 6003:500 6005:101 
+extent_server: get 3
+extent_server: getattr 102
+RPC STATS: 1:2 6001:200 6002:500 6003:502 6005:101 
+extent_server: getattr 102
+extent_server: get 102
+RPC STATS: 1:2 6001:201 6002:502 6003:502 6005:101 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:201 6002:502 6003:505 6005:101 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: get 3
+RPC STATS: 1:2 6001:201 6002:504 6003:505 6005:102 
+extent_server: create inode
+extent_server: get 3
+RPC STATS: 1:2 6001:202 6002:505 6003:506 6005:102 
+extent_server: getattr 103
+extent_server: getattr 103
+extent_server: get 103
+RPC STATS: 1:2 6001:203 6002:506 6003:507 6005:102 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:203 6002:507 6003:509 6005:102 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:203 6002:509 6003:510 6005:102 
+extent_server: get 3
+extent_server: create inode
+extent_server: get 3
+RPC STATS: 1:2 6001:204 6002:510 6003:510 6005:103 
+extent_server: getattr 104
+extent_server: getattr 104
+RPC STATS: 1:2 6001:204 6002:511 6003:512 6005:103 
+extent_server: get 104
+extent_server: get 1
+RPC STATS: 1:2 6001:205 6002:512 6003:513 6005:103 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:205 6002:513 6003:515 6005:103 
+extent_server: get 3
+extent_server: get 3
+extent_server: create inode
+RPC STATS: 1:2 6001:205 6002:515 6003:515 6005:104 
+extent_server: get 3
+extent_server: getattr 105
+RPC STATS: 1:2 6001:206 6002:515 6003:517 6005:104 
+extent_server: getattr 105
+extent_server: get 105
+RPC STATS: 1:2 6001:207 6002:517 6003:517 6005:104 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:207 6002:517 6003:520 6005:104 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: get 3
+RPC STATS: 1:2 6001:207 6002:519 6003:520 6005:105 
+extent_server: create inode
+extent_server: get 3
+RPC STATS: 1:2 6001:208 6002:520 6003:521 6005:105 
+extent_server: getattr 106
+extent_server: getattr 106
+extent_server: get 106
+RPC STATS: 1:2 6001:209 6002:521 6003:522 6005:105 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:209 6002:522 6003:524 6005:105 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:209 6002:524 6003:525 6005:105 
+extent_server: get 3
+extent_server: create inode
+extent_server: get 3
+RPC STATS: 1:2 6001:210 6002:525 6003:525 6005:106 
+extent_server: getattr 107
+extent_server: getattr 107
+RPC STATS: 1:2 6001:210 6002:526 6003:527 6005:106 
+extent_server: get 107
+extent_server: get 1
+RPC STATS: 1:2 6001:211 6002:527 6003:528 6005:106 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:211 6002:528 6003:530 6005:106 
+extent_server: get 3
+extent_server: get 3
+extent_server: create inode
+RPC STATS: 1:2 6001:211 6002:530 6003:530 6005:107 
+extent_server: get 3
+extent_server: getattr 108
+RPC STATS: 1:2 6001:212 6002:530 6003:532 6005:107 
+extent_server: getattr 108
+extent_server: get 108
+RPC STATS: 1:2 6001:213 6002:532 6003:532 6005:107 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:213 6002:532 6003:535 6005:107 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: get 3
+RPC STATS: 1:2 6001:213 6002:534 6003:535 6005:108 
+extent_server: create inode
+extent_server: get 3
+RPC STATS: 1:2 6001:214 6002:535 6003:536 6005:108 
+extent_server: getattr 109
+extent_server: getattr 109
+extent_server: get 109
+RPC STATS: 1:2 6001:215 6002:536 6003:537 6005:108 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:215 6002:537 6003:539 6005:108 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:215 6002:539 6003:540 6005:108 
+extent_server: get 3
+extent_server: create inode
+extent_server: get 3
+RPC STATS: 1:2 6001:216 6002:540 6003:540 6005:109 
+extent_server: getattr 110
+extent_server: getattr 110
+RPC STATS: 1:2 6001:216 6002:541 6003:542 6005:109 
+extent_server: get 110
+extent_server: get 1
+RPC STATS: 1:2 6001:217 6002:542 6003:543 6005:109 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:217 6002:543 6003:545 6005:109 
+extent_server: get 3
+extent_server: get 3
+extent_server: create inode
+RPC STATS: 1:2 6001:217 6002:545 6003:545 6005:110 
+extent_server: get 3
+extent_server: getattr 111
+RPC STATS: 1:2 6001:218 6002:545 6003:547 6005:110 
+extent_server: getattr 111
+extent_server: get 111
+RPC STATS: 1:2 6001:219 6002:547 6003:547 6005:110 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:219 6002:547 6003:550 6005:110 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: get 3
+RPC STATS: 1:2 6001:219 6002:549 6003:550 6005:111 
+extent_server: create inode
+extent_server: get 3
+RPC STATS: 1:2 6001:220 6002:550 6003:551 6005:111 
+extent_server: getattr 112
+extent_server: getattr 112
+extent_server: get 112
+RPC STATS: 1:2 6001:221 6002:551 6003:552 6005:111 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:221 6002:552 6003:554 6005:111 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:221 6002:554 6003:555 6005:111 
+extent_server: get 3
+extent_server: create inode
+extent_server: get 3
+RPC STATS: 1:2 6001:222 6002:555 6003:555 6005:112 
+extent_server: getattr 113
+extent_server: getattr 113
+RPC STATS: 1:2 6001:222 6002:556 6003:557 6005:112 
+extent_server: get 113
+extent_server: get 1
+RPC STATS: 1:2 6001:223 6002:557 6003:558 6005:112 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:223 6002:558 6003:560 6005:112 
+extent_server: get 3
+extent_server: get 3
+extent_server: create inode
+RPC STATS: 1:2 6001:223 6002:560 6003:560 6005:113 
+extent_server: get 3
+extent_server: getattr 114
+RPC STATS: 1:2 6001:224 6002:560 6003:562 6005:113 
+extent_server: getattr 114
+extent_server: get 114
+RPC STATS: 1:2 6001:225 6002:562 6003:562 6005:113 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:225 6002:562 6003:565 6005:113 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: get 3
+RPC STATS: 1:2 6001:225 6002:564 6003:565 6005:114 
+extent_server: create inode
+extent_server: get 3
+RPC STATS: 1:2 6001:226 6002:565 6003:566 6005:114 
+extent_server: getattr 115
+extent_server: getattr 115
+extent_server: get 115
+RPC STATS: 1:2 6001:227 6002:566 6003:567 6005:114 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:227 6002:567 6003:569 6005:114 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:227 6002:569 6003:570 6005:114 
+extent_server: get 3
+extent_server: create inode
+extent_server: get 3
+RPC STATS: 1:2 6001:228 6002:570 6003:570 6005:115 
+extent_server: getattr 116
+extent_server: getattr 116
+RPC STATS: 1:2 6001:228 6002:571 6003:572 6005:115 
+extent_server: get 116
+extent_server: get 1
+RPC STATS: 1:2 6001:229 6002:572 6003:573 6005:115 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:229 6002:573 6003:575 6005:115 
+extent_server: get 3
+extent_server: get 3
+extent_server: create inode
+RPC STATS: 1:2 6001:229 6002:575 6003:575 6005:116 
+extent_server: get 3
+extent_server: getattr 117
+RPC STATS: 1:2 6001:230 6002:575 6003:577 6005:116 
+extent_server: getattr 117
+extent_server: get 117
+RPC STATS: 1:2 6001:231 6002:577 6003:577 6005:116 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:231 6002:577 6003:580 6005:116 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: get 3
+RPC STATS: 1:2 6001:231 6002:579 6003:580 6005:117 
+extent_server: create inode
+extent_server: get 3
+RPC STATS: 1:2 6001:232 6002:580 6003:581 6005:117 
+extent_server: getattr 118
+extent_server: getattr 118
+extent_server: get 118
+RPC STATS: 1:2 6001:233 6002:581 6003:582 6005:117 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:233 6002:582 6003:584 6005:117 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:233 6002:584 6003:585 6005:117 
+extent_server: get 3
+extent_server: create inode
+extent_server: get 3
+RPC STATS: 1:2 6001:234 6002:585 6003:585 6005:118 
+extent_server: getattr 119
+extent_server: getattr 119
+RPC STATS: 1:2 6001:234 6002:586 6003:587 6005:118 
+extent_server: get 119
+extent_server: get 1
+RPC STATS: 1:2 6001:235 6002:587 6003:588 6005:118 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:235 6002:588 6003:590 6005:118 
+extent_server: get 3
+extent_server: get 3
+extent_server: create inode
+RPC STATS: 1:2 6001:235 6002:590 6003:590 6005:119 
+extent_server: get 3
+extent_server: getattr 120
+RPC STATS: 1:2 6001:236 6002:590 6003:592 6005:119 
+extent_server: getattr 120
+extent_server: get 120
+RPC STATS: 1:2 6001:237 6002:592 6003:592 6005:119 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:237 6002:592 6003:595 6005:119 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: get 3
+RPC STATS: 1:2 6001:237 6002:594 6003:595 6005:120 
+extent_server: create inode
+extent_server: get 3
+RPC STATS: 1:2 6001:238 6002:595 6003:596 6005:120 
+extent_server: getattr 121
+extent_server: getattr 121
+extent_server: get 121
+RPC STATS: 1:2 6001:239 6002:596 6003:597 6005:120 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:239 6002:597 6003:599 6005:120 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:239 6002:599 6003:600 6005:120 
+extent_server: get 3
+extent_server: create inode
+extent_server: get 3
+RPC STATS: 1:2 6001:240 6002:600 6003:600 6005:121 
+extent_server: getattr 122
+extent_server: getattr 122
+RPC STATS: 1:2 6001:240 6002:601 6003:602 6005:121 
+extent_server: get 122
+extent_server: get 1
+RPC STATS: 1:2 6001:241 6002:602 6003:603 6005:121 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:241 6002:603 6003:605 6005:121 
+extent_server: get 3
+extent_server: get 3
+extent_server: create inode
+RPC STATS: 1:2 6001:241 6002:605 6003:605 6005:122 
+extent_server: get 3
+extent_server: getattr 123
+RPC STATS: 1:2 6001:242 6002:605 6003:607 6005:122 
+extent_server: getattr 123
+extent_server: get 123
+RPC STATS: 1:2 6001:243 6002:607 6003:607 6005:122 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:243 6002:607 6003:610 6005:122 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: get 3
+RPC STATS: 1:2 6001:243 6002:609 6003:610 6005:123 
+extent_server: create inode
+extent_server: get 3
+RPC STATS: 1:2 6001:244 6002:610 6003:611 6005:123 
+extent_server: getattr 124
+extent_server: getattr 124
+extent_server: get 124
+RPC STATS: 1:2 6001:245 6002:611 6003:612 6005:123 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:245 6002:612 6003:614 6005:123 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:245 6002:614 6003:615 6005:123 
+extent_server: get 3
+extent_server: create inode
+extent_server: get 3
+RPC STATS: 1:2 6001:246 6002:615 6003:615 6005:124 
+extent_server: getattr 125
+extent_server: getattr 125
+RPC STATS: 1:2 6001:246 6002:616 6003:617 6005:124 
+extent_server: get 125
+extent_server: get 1
+RPC STATS: 1:2 6001:247 6002:617 6003:618 6005:124 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:247 6002:618 6003:620 6005:124 
+extent_server: get 3
+extent_server: get 3
+extent_server: create inode
+RPC STATS: 1:2 6001:247 6002:620 6003:620 6005:125 
+extent_server: get 3
+extent_server: getattr 126
+RPC STATS: 1:2 6001:248 6002:620 6003:622 6005:125 
+extent_server: getattr 126
+extent_server: get 126
+RPC STATS: 1:2 6001:249 6002:622 6003:622 6005:125 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:249 6002:622 6003:625 6005:125 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: get 3
+RPC STATS: 1:2 6001:249 6002:624 6003:625 6005:126 
+extent_server: create inode
+extent_server: get 3
+RPC STATS: 1:2 6001:250 6002:625 6003:626 6005:126 
+extent_server: getattr 127
+extent_server: getattr 127
+extent_server: get 127
+RPC STATS: 1:2 6001:251 6002:626 6003:627 6005:126 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:251 6002:627 6003:629 6005:126 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:251 6002:629 6003:630 6005:126 
+extent_server: get 3
+extent_server: create inode
+extent_server: get 3
+RPC STATS: 1:2 6001:252 6002:630 6003:630 6005:127 
+extent_server: getattr 78
+extent_server: getattr 78
+RPC STATS: 1:2 6001:252 6002:631 6003:632 6005:127 
+extent_server: get 78
+extent_server: get 1
+RPC STATS: 1:2 6001:253 6002:632 6003:633 6005:127 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:253 6002:633 6003:635 6005:127 
+extent_server: get 2
+extent_server: get 2
+extent_server: create inode
+RPC STATS: 1:2 6001:253 6002:635 6003:635 6005:128 
+extent_server: get 2
+extent_server: getattr 129
+RPC STATS: 1:2 6001:254 6002:635 6003:637 6005:128 
+extent_server: getattr 129
+extent_server: get 129
+RPC STATS: 1:2 6001:255 6002:637 6003:637 6005:128 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:255 6002:637 6003:640 6005:128 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: get 2
+RPC STATS: 1:2 6001:255 6002:639 6003:640 6005:129 
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:256 6002:640 6003:641 6005:129 
+extent_server: getattr 130
+extent_server: getattr 130
+extent_server: get 130
+RPC STATS: 1:2 6001:257 6002:641 6003:642 6005:129 
+extent_server: get 1
+extent_server: getattr 2
+RPC STATS: 1:2 6001:257 6002:642 6003:644 6005:129 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:257 6002:644 6003:645 6005:129 
+extent_server: get 2
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:258 6002:645 6003:645 6005:130 
+extent_server: getattr 131
+extent_server: getattr 131
+RPC STATS: 1:2 6001:258 6002:646 6003:647 6005:130 
+extent_server: get 131
+extent_server: get 1
+RPC STATS: 1:2 6001:259 6002:647 6003:648 6005:130 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:259 6002:648 6003:650 6005:130 
+extent_server: get 2
+extent_server: get 2
+extent_server: create inode
+RPC STATS: 1:2 6001:259 6002:650 6003:650 6005:131 
+extent_server: get 2
+extent_server: getattr 132
+RPC STATS: 1:2 6001:260 6002:650 6003:652 6005:131 
+extent_server: getattr 132
+extent_server: get 132
+RPC STATS: 1:2 6001:261 6002:652 6003:652 6005:131 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:261 6002:652 6003:655 6005:131 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: get 2
+RPC STATS: 1:2 6001:261 6002:654 6003:655 6005:132 
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:262 6002:655 6003:656 6005:132 
+extent_server: getattr 133
+extent_server: getattr 133
+extent_server: get 133
+RPC STATS: 1:2 6001:263 6002:656 6003:657 6005:132 
+extent_server: get 1
+extent_server: getattr 2
+RPC STATS: 1:2 6001:263 6002:657 6003:659 6005:132 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:263 6002:659 6003:660 6005:132 
+extent_server: get 2
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:264 6002:660 6003:660 6005:133 
+extent_server: getattr 134
+extent_server: getattr 134
+RPC STATS: 1:2 6001:264 6002:661 6003:662 6005:133 
+extent_server: get 134
+extent_server: get 1
+RPC STATS: 1:2 6001:265 6002:662 6003:663 6005:133 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:265 6002:663 6003:665 6005:133 
+extent_server: get 2
+extent_server: get 2
+extent_server: create inode
+RPC STATS: 1:2 6001:265 6002:665 6003:665 6005:134 
+extent_server: get 2
+extent_server: getattr 135
+RPC STATS: 1:2 6001:266 6002:665 6003:667 6005:134 
+extent_server: getattr 135
+extent_server: get 135
+RPC STATS: 1:2 6001:267 6002:667 6003:667 6005:134 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:267 6002:667 6003:670 6005:134 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: get 2
+RPC STATS: 1:2 6001:267 6002:669 6003:670 6005:135 
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:268 6002:670 6003:671 6005:135 
+extent_server: getattr 136
+extent_server: getattr 136
+extent_server: get 136
+RPC STATS: 1:2 6001:269 6002:671 6003:672 6005:135 
+extent_server: get 1
+extent_server: getattr 2
+RPC STATS: 1:2 6001:269 6002:672 6003:674 6005:135 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:269 6002:674 6003:675 6005:135 
+extent_server: get 2
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:270 6002:675 6003:675 6005:136 
+extent_server: getattr 137
+extent_server: getattr 137
+RPC STATS: 1:2 6001:270 6002:676 6003:677 6005:136 
+extent_server: get 137
+extent_server: get 1
+RPC STATS: 1:2 6001:271 6002:677 6003:678 6005:136 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:271 6002:678 6003:680 6005:136 
+extent_server: get 2
+extent_server: get 2
+extent_server: create inode
+RPC STATS: 1:2 6001:271 6002:680 6003:680 6005:137 
+extent_server: get 2
+extent_server: getattr 138
+RPC STATS: 1:2 6001:272 6002:680 6003:682 6005:137 
+extent_server: getattr 138
+extent_server: get 138
+RPC STATS: 1:2 6001:273 6002:682 6003:682 6005:137 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:273 6002:682 6003:685 6005:137 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: get 2
+RPC STATS: 1:2 6001:273 6002:684 6003:685 6005:138 
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:274 6002:685 6003:686 6005:138 
+extent_server: getattr 139
+extent_server: getattr 139
+extent_server: get 139
+RPC STATS: 1:2 6001:275 6002:686 6003:687 6005:138 
+extent_server: get 1
+extent_server: getattr 2
+RPC STATS: 1:2 6001:275 6002:687 6003:689 6005:138 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:275 6002:689 6003:690 6005:138 
+extent_server: get 2
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:276 6002:690 6003:690 6005:139 
+extent_server: getattr 140
+extent_server: getattr 140
+RPC STATS: 1:2 6001:276 6002:691 6003:692 6005:139 
+extent_server: get 140
+extent_server: get 1
+RPC STATS: 1:2 6001:277 6002:692 6003:693 6005:139 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:277 6002:693 6003:695 6005:139 
+extent_server: get 2
+extent_server: get 2
+extent_server: create inode
+RPC STATS: 1:2 6001:277 6002:695 6003:695 6005:140 
+extent_server: get 2
+extent_server: getattr 141
+RPC STATS: 1:2 6001:278 6002:695 6003:697 6005:140 
+extent_server: getattr 141
+extent_server: get 141
+RPC STATS: 1:2 6001:279 6002:697 6003:697 6005:140 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:279 6002:697 6003:700 6005:140 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: get 2
+RPC STATS: 1:2 6001:279 6002:699 6003:700 6005:141 
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:280 6002:700 6003:701 6005:141 
+extent_server: getattr 142
+extent_server: getattr 142
+extent_server: get 142
+RPC STATS: 1:2 6001:281 6002:701 6003:702 6005:141 
+extent_server: get 1
+extent_server: getattr 2
+RPC STATS: 1:2 6001:281 6002:702 6003:704 6005:141 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:281 6002:704 6003:705 6005:141 
+extent_server: get 2
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:282 6002:705 6003:705 6005:142 
+extent_server: getattr 143
+extent_server: getattr 143
+RPC STATS: 1:2 6001:282 6002:706 6003:707 6005:142 
+extent_server: get 143
+extent_server: get 1
+RPC STATS: 1:2 6001:283 6002:707 6003:708 6005:142 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:283 6002:708 6003:710 6005:142 
+extent_server: get 2
+extent_server: get 2
+extent_server: create inode
+RPC STATS: 1:2 6001:283 6002:710 6003:710 6005:143 
+extent_server: get 2
+extent_server: getattr 144
+RPC STATS: 1:2 6001:284 6002:710 6003:712 6005:143 
+extent_server: getattr 144
+extent_server: get 144
+RPC STATS: 1:2 6001:285 6002:712 6003:712 6005:143 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:285 6002:712 6003:715 6005:143 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: get 2
+RPC STATS: 1:2 6001:285 6002:714 6003:715 6005:144 
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:286 6002:715 6003:716 6005:144 
+extent_server: getattr 145
+extent_server: getattr 145
+extent_server: get 145
+RPC STATS: 1:2 6001:287 6002:716 6003:717 6005:144 
+extent_server: get 1
+extent_server: getattr 2
+RPC STATS: 1:2 6001:287 6002:717 6003:719 6005:144 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:287 6002:719 6003:720 6005:144 
+extent_server: get 2
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:288 6002:720 6003:720 6005:145 
+extent_server: getattr 146
+extent_server: getattr 146
+RPC STATS: 1:2 6001:288 6002:721 6003:722 6005:145 
+extent_server: get 146
+extent_server: get 1
+RPC STATS: 1:2 6001:289 6002:722 6003:723 6005:145 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:289 6002:723 6003:725 6005:145 
+extent_server: get 2
+extent_server: get 2
+extent_server: create inode
+RPC STATS: 1:2 6001:289 6002:725 6003:725 6005:146 
+extent_server: get 2
+extent_server: getattr 147
+RPC STATS: 1:2 6001:290 6002:725 6003:727 6005:146 
+extent_server: getattr 147
+extent_server: get 147
+RPC STATS: 1:2 6001:291 6002:727 6003:727 6005:146 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:291 6002:727 6003:730 6005:146 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: get 2
+RPC STATS: 1:2 6001:291 6002:729 6003:730 6005:147 
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:292 6002:730 6003:731 6005:147 
+extent_server: getattr 148
+extent_server: getattr 148
+extent_server: get 148
+RPC STATS: 1:2 6001:293 6002:731 6003:732 6005:147 
+extent_server: get 1
+extent_server: getattr 2
+RPC STATS: 1:2 6001:293 6002:732 6003:734 6005:147 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:293 6002:734 6003:735 6005:147 
+extent_server: get 2
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:294 6002:735 6003:735 6005:148 
+extent_server: getattr 149
+extent_server: getattr 149
+RPC STATS: 1:2 6001:294 6002:736 6003:737 6005:148 
+extent_server: get 149
+extent_server: get 1
+RPC STATS: 1:2 6001:295 6002:737 6003:738 6005:148 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:295 6002:738 6003:740 6005:148 
+extent_server: get 2
+extent_server: get 2
+extent_server: create inode
+RPC STATS: 1:2 6001:295 6002:740 6003:740 6005:149 
+extent_server: get 2
+extent_server: getattr 150
+RPC STATS: 1:2 6001:296 6002:740 6003:742 6005:149 
+extent_server: getattr 150
+extent_server: get 150
+RPC STATS: 1:2 6001:297 6002:742 6003:742 6005:149 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:297 6002:742 6003:745 6005:149 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: get 2
+RPC STATS: 1:2 6001:297 6002:744 6003:745 6005:150 
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:298 6002:745 6003:746 6005:150 
+extent_server: getattr 151
+extent_server: getattr 151
+extent_server: get 151
+RPC STATS: 1:2 6001:299 6002:746 6003:747 6005:150 
+extent_server: get 1
+extent_server: getattr 2
+RPC STATS: 1:2 6001:299 6002:747 6003:749 6005:150 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:299 6002:749 6003:750 6005:150 
+extent_server: get 2
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:300 6002:750 6003:750 6005:151 
+extent_server: getattr 152
+extent_server: getattr 152
+RPC STATS: 1:2 6001:300 6002:751 6003:752 6005:151 
+extent_server: get 152
+extent_server: get 1
+RPC STATS: 1:2 6001:301 6002:752 6003:753 6005:151 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:301 6002:753 6003:755 6005:151 
+extent_server: get 2
+extent_server: get 2
+extent_server: create inode
+RPC STATS: 1:2 6001:301 6002:755 6003:755 6005:152 
+extent_server: get 2
+extent_server: getattr 153
+RPC STATS: 1:2 6001:302 6002:755 6003:757 6005:152 
+extent_server: getattr 153
+extent_server: get 153
+RPC STATS: 1:2 6001:303 6002:757 6003:757 6005:152 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:303 6002:757 6003:760 6005:152 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: get 2
+RPC STATS: 1:2 6001:303 6002:759 6003:760 6005:153 
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:304 6002:760 6003:761 6005:153 
+extent_server: getattr 154
+extent_server: getattr 154
+extent_server: get 154
+RPC STATS: 1:2 6001:305 6002:761 6003:762 6005:153 
+extent_server: get 1
+extent_server: getattr 2
+RPC STATS: 1:2 6001:305 6002:762 6003:764 6005:153 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:305 6002:764 6003:765 6005:153 
+extent_server: get 2
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:306 6002:765 6003:765 6005:154 
+extent_server: getattr 128
+extent_server: getattr 128
+RPC STATS: 1:2 6001:306 6002:766 6003:767 6005:154 
+extent_server: get 128
+extent_server: get 1
+RPC STATS: 1:2 6001:307 6002:767 6003:768 6005:154 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:307 6002:768 6003:770 6005:154 
+extent_server: get 3
+extent_server: get 3
+extent_server: create inode
+RPC STATS: 1:2 6001:307 6002:770 6003:770 6005:155 
+extent_server: get 3
+extent_server: getattr 156
+RPC STATS: 1:2 6001:308 6002:770 6003:772 6005:155 
+extent_server: getattr 156
+extent_server: get 156
+RPC STATS: 1:2 6001:309 6002:772 6003:772 6005:155 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:309 6002:772 6003:775 6005:155 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: get 3
+RPC STATS: 1:2 6001:309 6002:774 6003:775 6005:156 
+extent_server: create inode
+extent_server: get 3
+RPC STATS: 1:2 6001:310 6002:775 6003:776 6005:156 
+extent_server: getattr 155
+extent_server: getattr 155
+extent_server: get 155
+RPC STATS: 1:2 6001:311 6002:776 6003:777 6005:156 
+extent_server: get 1
+extent_server: getattr 2
+RPC STATS: 1:2 6001:311 6002:777 6003:779 6005:156 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:311 6002:779 6003:780 6005:156 
+extent_server: get 2
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:312 6002:780 6003:780 6005:157 
+extent_server: getattr 158
+extent_server: getattr 158
+RPC STATS: 1:2 6001:312 6002:781 6003:782 6005:157 
+extent_server: get 158
+extent_server: get 1
+RPC STATS: 1:2 6001:313 6002:782 6003:783 6005:157 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:313 6002:783 6003:785 6005:157 
+extent_server: get 2
+extent_server: get 2
+extent_server: create inode
+RPC STATS: 1:2 6001:313 6002:785 6003:785 6005:158 
+extent_server: get 2
+extent_server: getattr 159
+RPC STATS: 1:2 6001:314 6002:785 6003:787 6005:158 
+extent_server: getattr 159
+extent_server: get 159
+RPC STATS: 1:2 6001:315 6002:787 6003:787 6005:158 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:315 6002:787 6003:790 6005:158 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: get 2
+RPC STATS: 1:2 6001:315 6002:789 6003:790 6005:159 
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:316 6002:790 6003:791 6005:159 
+extent_server: getattr 160
+extent_server: getattr 160
+extent_server: get 160
+RPC STATS: 1:2 6001:317 6002:791 6003:792 6005:159 
+extent_server: get 1
+extent_server: getattr 2
+RPC STATS: 1:2 6001:317 6002:792 6003:794 6005:159 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:317 6002:794 6003:795 6005:159 
+extent_server: get 2
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:318 6002:795 6003:795 6005:160 
+extent_server: getattr 161
+extent_server: getattr 161
+RPC STATS: 1:2 6001:318 6002:796 6003:797 6005:160 
+extent_server: get 161
+extent_server: get 1
+RPC STATS: 1:2 6001:319 6002:797 6003:798 6005:160 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:319 6002:798 6003:800 6005:160 
+extent_server: get 2
+extent_server: get 2
+extent_server: create inode
+RPC STATS: 1:2 6001:319 6002:800 6003:800 6005:161 
+extent_server: get 2
+extent_server: getattr 162
+RPC STATS: 1:2 6001:320 6002:800 6003:802 6005:161 
+extent_server: getattr 162
+extent_server: get 162
+RPC STATS: 1:2 6001:321 6002:802 6003:802 6005:161 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:321 6002:802 6003:805 6005:161 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: get 2
+RPC STATS: 1:2 6001:321 6002:804 6003:805 6005:162 
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:322 6002:805 6003:806 6005:162 
+extent_server: getattr 163
+extent_server: getattr 163
+extent_server: get 163
+RPC STATS: 1:2 6001:323 6002:806 6003:807 6005:162 
+extent_server: get 1
+extent_server: getattr 2
+RPC STATS: 1:2 6001:323 6002:807 6003:809 6005:162 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:323 6002:809 6003:810 6005:162 
+extent_server: get 2
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:324 6002:810 6003:810 6005:163 
+extent_server: getattr 164
+extent_server: getattr 164
+RPC STATS: 1:2 6001:324 6002:811 6003:812 6005:163 
+extent_server: get 164
+extent_server: get 1
+RPC STATS: 1:2 6001:325 6002:812 6003:813 6005:163 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:325 6002:813 6003:815 6005:163 
+extent_server: get 2
+extent_server: get 2
+extent_server: create inode
+RPC STATS: 1:2 6001:325 6002:815 6003:815 6005:164 
+extent_server: get 2
+extent_server: getattr 165
+RPC STATS: 1:2 6001:326 6002:815 6003:817 6005:164 
+extent_server: getattr 165
+extent_server: get 165
+RPC STATS: 1:2 6001:327 6002:817 6003:817 6005:164 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:327 6002:817 6003:820 6005:164 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: get 2
+RPC STATS: 1:2 6001:327 6002:819 6003:820 6005:165 
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:328 6002:820 6003:821 6005:165 
+extent_server: getattr 166
+extent_server: getattr 166
+extent_server: get 166
+RPC STATS: 1:2 6001:329 6002:821 6003:822 6005:165 
+extent_server: get 1
+extent_server: getattr 2
+RPC STATS: 1:2 6001:329 6002:822 6003:824 6005:165 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:329 6002:824 6003:825 6005:165 
+extent_server: get 2
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:330 6002:825 6003:825 6005:166 
+extent_server: getattr 167
+extent_server: getattr 167
+RPC STATS: 1:2 6001:330 6002:826 6003:827 6005:166 
+extent_server: get 167
+extent_server: get 1
+RPC STATS: 1:2 6001:331 6002:827 6003:828 6005:166 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:331 6002:828 6003:830 6005:166 
+extent_server: get 2
+extent_server: get 2
+extent_server: create inode
+RPC STATS: 1:2 6001:331 6002:830 6003:830 6005:167 
+extent_server: get 2
+extent_server: getattr 168
+RPC STATS: 1:2 6001:332 6002:830 6003:832 6005:167 
+extent_server: getattr 168
+extent_server: get 168
+RPC STATS: 1:2 6001:333 6002:832 6003:832 6005:167 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:333 6002:832 6003:835 6005:167 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: get 2
+RPC STATS: 1:2 6001:333 6002:834 6003:835 6005:168 
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:334 6002:835 6003:836 6005:168 
+extent_server: getattr 169
+extent_server: getattr 169
+extent_server: get 169
+RPC STATS: 1:2 6001:335 6002:836 6003:837 6005:168 
+extent_server: get 1
+extent_server: getattr 2
+RPC STATS: 1:2 6001:335 6002:837 6003:839 6005:168 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:335 6002:839 6003:840 6005:168 
+extent_server: get 2
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:336 6002:840 6003:840 6005:169 
+extent_server: getattr 170
+extent_server: getattr 170
+RPC STATS: 1:2 6001:336 6002:841 6003:842 6005:169 
+extent_server: get 170
+extent_server: get 1
+RPC STATS: 1:2 6001:337 6002:842 6003:843 6005:169 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:337 6002:843 6003:845 6005:169 
+extent_server: get 2
+extent_server: get 2
+extent_server: create inode
+RPC STATS: 1:2 6001:337 6002:845 6003:845 6005:170 
+extent_server: get 2
+extent_server: getattr 171
+RPC STATS: 1:2 6001:338 6002:845 6003:847 6005:170 
+extent_server: getattr 171
+extent_server: get 171
+RPC STATS: 1:2 6001:339 6002:847 6003:847 6005:170 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:339 6002:847 6003:850 6005:170 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: get 2
+RPC STATS: 1:2 6001:339 6002:849 6003:850 6005:171 
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:340 6002:850 6003:851 6005:171 
+extent_server: getattr 172
+extent_server: getattr 172
+extent_server: get 172
+RPC STATS: 1:2 6001:341 6002:851 6003:852 6005:171 
+extent_server: get 1
+extent_server: getattr 2
+RPC STATS: 1:2 6001:341 6002:852 6003:854 6005:171 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:341 6002:854 6003:855 6005:171 
+extent_server: get 2
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:342 6002:855 6003:855 6005:172 
+extent_server: getattr 173
+extent_server: getattr 173
+RPC STATS: 1:2 6001:342 6002:856 6003:857 6005:172 
+extent_server: get 173
+extent_server: get 1
+RPC STATS: 1:2 6001:343 6002:857 6003:858 6005:172 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:343 6002:858 6003:860 6005:172 
+extent_server: get 2
+extent_server: get 2
+extent_server: create inode
+RPC STATS: 1:2 6001:343 6002:860 6003:860 6005:173 
+extent_server: get 2
+extent_server: getattr 174
+RPC STATS: 1:2 6001:344 6002:860 6003:862 6005:173 
+extent_server: getattr 174
+extent_server: get 174
+RPC STATS: 1:2 6001:345 6002:862 6003:862 6005:173 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:345 6002:862 6003:865 6005:173 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: get 2
+RPC STATS: 1:2 6001:345 6002:864 6003:865 6005:174 
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:346 6002:865 6003:866 6005:174 
+extent_server: getattr 175
+extent_server: getattr 175
+extent_server: get 175
+RPC STATS: 1:2 6001:347 6002:866 6003:867 6005:174 
+extent_server: get 1
+extent_server: getattr 2
+RPC STATS: 1:2 6001:347 6002:867 6003:869 6005:174 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:347 6002:869 6003:870 6005:174 
+extent_server: get 2
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:348 6002:870 6003:870 6005:175 
+extent_server: getattr 176
+extent_server: getattr 176
+RPC STATS: 1:2 6001:348 6002:871 6003:872 6005:175 
+extent_server: get 176
+extent_server: get 1
+RPC STATS: 1:2 6001:349 6002:872 6003:873 6005:175 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:349 6002:873 6003:875 6005:175 
+extent_server: get 2
+extent_server: get 2
+extent_server: create inode
+RPC STATS: 1:2 6001:349 6002:875 6003:875 6005:176 
+extent_server: get 2
+extent_server: getattr 177
+RPC STATS: 1:2 6001:350 6002:875 6003:877 6005:176 
+extent_server: getattr 177
+extent_server: get 177
+RPC STATS: 1:2 6001:351 6002:877 6003:877 6005:176 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:351 6002:877 6003:880 6005:176 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: get 2
+RPC STATS: 1:2 6001:351 6002:879 6003:880 6005:177 
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:352 6002:880 6003:881 6005:177 
+extent_server: getattr 178
+extent_server: getattr 178
+extent_server: get 178
+RPC STATS: 1:2 6001:353 6002:881 6003:882 6005:177 
+extent_server: get 1
+extent_server: getattr 2
+RPC STATS: 1:2 6001:353 6002:882 6003:884 6005:177 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:353 6002:884 6003:885 6005:177 
+extent_server: get 2
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:354 6002:885 6003:885 6005:178 
+extent_server: getattr 179
+extent_server: getattr 179
+RPC STATS: 1:2 6001:354 6002:886 6003:887 6005:178 
+extent_server: get 179
+extent_server: get 1
+RPC STATS: 1:2 6001:355 6002:887 6003:888 6005:178 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:355 6002:888 6003:890 6005:178 
+extent_server: get 2
+extent_server: get 2
+extent_server: create inode
+RPC STATS: 1:2 6001:355 6002:890 6003:890 6005:179 
+extent_server: get 2
+extent_server: getattr 180
+RPC STATS: 1:2 6001:356 6002:890 6003:892 6005:179 
+extent_server: getattr 180
+extent_server: get 180
+RPC STATS: 1:2 6001:357 6002:892 6003:892 6005:179 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:357 6002:892 6003:895 6005:179 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: get 2
+RPC STATS: 1:2 6001:357 6002:894 6003:895 6005:180 
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:358 6002:895 6003:896 6005:180 
+extent_server: getattr 181
+extent_server: getattr 181
+extent_server: get 181
+RPC STATS: 1:2 6001:359 6002:896 6003:897 6005:180 
+extent_server: get 1
+extent_server: getattr 2
+RPC STATS: 1:2 6001:359 6002:897 6003:899 6005:180 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:359 6002:899 6003:900 6005:180 
+extent_server: get 2
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:360 6002:900 6003:900 6005:181 
+extent_server: getattr 182
+extent_server: getattr 182
+RPC STATS: 1:2 6001:360 6002:901 6003:902 6005:181 
+extent_server: get 182
+extent_server: get 1
+RPC STATS: 1:2 6001:361 6002:902 6003:903 6005:181 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:361 6002:903 6003:905 6005:181 
+extent_server: get 2
+extent_server: get 2
+extent_server: create inode
+RPC STATS: 1:2 6001:361 6002:905 6003:905 6005:182 
+extent_server: get 2
+extent_server: getattr 183
+RPC STATS: 1:2 6001:362 6002:905 6003:907 6005:182 
+extent_server: getattr 183
+extent_server: get 183
+RPC STATS: 1:2 6001:363 6002:907 6003:907 6005:182 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:363 6002:907 6003:910 6005:182 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: get 2
+RPC STATS: 1:2 6001:363 6002:909 6003:910 6005:183 
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:364 6002:910 6003:911 6005:183 
+extent_server: getattr 184
+extent_server: getattr 184
+extent_server: get 184
+RPC STATS: 1:2 6001:365 6002:911 6003:912 6005:183 
+extent_server: get 1
+extent_server: getattr 2
+RPC STATS: 1:2 6001:365 6002:912 6003:914 6005:183 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:365 6002:914 6003:915 6005:183 
+extent_server: get 2
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:366 6002:915 6003:915 6005:184 
+extent_server: getattr 185
+extent_server: getattr 185
+RPC STATS: 1:2 6001:366 6002:916 6003:917 6005:184 
+extent_server: get 185
+extent_server: get 1
+RPC STATS: 1:2 6001:367 6002:917 6003:918 6005:184 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:367 6002:918 6003:920 6005:184 
+extent_server: get 2
+extent_server: get 2
+extent_server: create inode
+RPC STATS: 1:2 6001:367 6002:920 6003:920 6005:185 
+extent_server: get 2
+extent_server: getattr 186
+RPC STATS: 1:2 6001:368 6002:920 6003:922 6005:185 
+extent_server: getattr 186
+extent_server: get 186
+RPC STATS: 1:2 6001:369 6002:922 6003:922 6005:185 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:369 6002:922 6003:925 6005:185 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: get 2
+RPC STATS: 1:2 6001:369 6002:924 6003:925 6005:186 
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:370 6002:925 6003:926 6005:186 
+extent_server: getattr 187
+extent_server: getattr 187
+extent_server: get 187
+RPC STATS: 1:2 6001:371 6002:926 6003:927 6005:186 
+extent_server: get 1
+extent_server: getattr 2
+RPC STATS: 1:2 6001:371 6002:927 6003:929 6005:186 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:371 6002:929 6003:930 6005:186 
+extent_server: get 2
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:372 6002:930 6003:930 6005:187 
+extent_server: getattr 188
+extent_server: getattr 188
+RPC STATS: 1:2 6001:372 6002:931 6003:932 6005:187 
+extent_server: get 188
+extent_server: get 1
+RPC STATS: 1:2 6001:373 6002:932 6003:933 6005:187 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:373 6002:933 6003:935 6005:187 
+extent_server: get 2
+extent_server: get 2
+extent_server: create inode
+RPC STATS: 1:2 6001:373 6002:935 6003:935 6005:188 
+extent_server: get 2
+extent_server: getattr 189
+RPC STATS: 1:2 6001:374 6002:935 6003:937 6005:188 
+extent_server: getattr 189
+extent_server: get 189
+RPC STATS: 1:2 6001:375 6002:937 6003:937 6005:188 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:375 6002:937 6003:940 6005:188 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: get 2
+RPC STATS: 1:2 6001:375 6002:939 6003:940 6005:189 
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:376 6002:940 6003:941 6005:189 
+extent_server: getattr 190
+extent_server: getattr 190
+extent_server: get 190
+RPC STATS: 1:2 6001:377 6002:941 6003:942 6005:189 
+extent_server: get 1
+extent_server: getattr 2
+RPC STATS: 1:2 6001:377 6002:942 6003:944 6005:189 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:377 6002:944 6003:945 6005:189 
+extent_server: get 2
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:378 6002:945 6003:945 6005:190 
+extent_server: getattr 191
+extent_server: getattr 191
+RPC STATS: 1:2 6001:378 6002:946 6003:947 6005:190 
+extent_server: get 191
+extent_server: get 1
+RPC STATS: 1:2 6001:379 6002:947 6003:948 6005:190 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:379 6002:948 6003:950 6005:190 
+extent_server: get 2
+extent_server: get 2
+extent_server: create inode
+RPC STATS: 1:2 6001:379 6002:950 6003:950 6005:191 
+extent_server: get 2
+extent_server: getattr 192
+RPC STATS: 1:2 6001:380 6002:950 6003:952 6005:191 
+extent_server: getattr 192
+extent_server: get 192
+RPC STATS: 1:2 6001:381 6002:952 6003:952 6005:191 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:381 6002:952 6003:955 6005:191 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: get 2
+RPC STATS: 1:2 6001:381 6002:954 6003:955 6005:192 
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:382 6002:955 6003:956 6005:192 
+extent_server: getattr 193
+extent_server: getattr 193
+extent_server: get 193
+RPC STATS: 1:2 6001:383 6002:956 6003:957 6005:192 
+extent_server: get 1
+extent_server: getattr 2
+RPC STATS: 1:2 6001:383 6002:957 6003:959 6005:192 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:383 6002:959 6003:960 6005:192 
+extent_server: get 2
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:384 6002:960 6003:960 6005:193 
+extent_server: getattr 194
+extent_server: getattr 194
+RPC STATS: 1:2 6001:384 6002:961 6003:962 6005:193 
+extent_server: get 194
+extent_server: get 1
+RPC STATS: 1:2 6001:385 6002:962 6003:963 6005:193 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:385 6002:963 6003:965 6005:193 
+extent_server: get 2
+extent_server: get 2
+extent_server: create inode
+RPC STATS: 1:2 6001:385 6002:965 6003:965 6005:194 
+extent_server: get 2
+extent_server: getattr 195
+RPC STATS: 1:2 6001:386 6002:965 6003:967 6005:194 
+extent_server: getattr 195
+extent_server: get 195
+RPC STATS: 1:2 6001:387 6002:967 6003:967 6005:194 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:387 6002:967 6003:970 6005:194 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: get 2
+RPC STATS: 1:2 6001:387 6002:969 6003:970 6005:195 
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:388 6002:970 6003:971 6005:195 
+extent_server: getattr 157
+extent_server: getattr 157
+extent_server: get 157
+RPC STATS: 1:2 6001:389 6002:971 6003:972 6005:195 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:389 6002:972 6003:974 6005:195 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:389 6002:974 6003:975 6005:195 
+extent_server: get 3
+extent_server: create inode
+extent_server: get 3
+RPC STATS: 1:2 6001:390 6002:975 6003:975 6005:196 
+extent_server: getattr 197
+extent_server: getattr 197
+RPC STATS: 1:2 6001:390 6002:976 6003:977 6005:196 
+extent_server: get 197
+extent_server: get 1
+RPC STATS: 1:2 6001:391 6002:977 6003:978 6005:196 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:391 6002:978 6003:980 6005:196 
+extent_server: get 3
+extent_server: get 3
+extent_server: create inode
+RPC STATS: 1:2 6001:391 6002:980 6003:980 6005:197 
+extent_server: get 3
+extent_server: getattr 196
+RPC STATS: 1:2 6001:392 6002:980 6003:982 6005:197 
+extent_server: getattr 196
+extent_server: get 196
+RPC STATS: 1:2 6001:393 6002:982 6003:982 6005:197 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:393 6002:982 6003:985 6005:197 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: get 2
+RPC STATS: 1:2 6001:393 6002:984 6003:985 6005:198 
+extent_server: create inode
+extent_server: get 2
+RPC STATS: 1:2 6001:394 6002:985 6003:986 6005:198 
+extent_server: getattr 199
+extent_server: getattr 199
+extent_server: get 199
+RPC STATS: 1:2 6001:395 6002:986 6003:987 6005:198 
+extent_server: getattr 198
+extent_server: getattr 198
+RPC STATS: 1:2 6001:395 6002:987 6003:989 6005:198 
+extent_server: get 198
+extent_server: get 1
+RPC STATS: 1:2 6001:396 6002:988 6003:990 6005:198 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:396 6002:989 6003:992 6005:198 
+extent_server: get 3
+extent_server: get 3
+extent_server: create inode
+RPC STATS: 1:2 6001:396 6002:991 6003:992 6005:199 
+extent_server: get 3
+extent_server: getattr 200
+RPC STATS: 1:2 6001:397 6002:991 6003:994 6005:199 
+extent_server: getattr 200
+extent_server: get 200
+RPC STATS: 1:2 6001:398 6002:993 6003:994 6005:199 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:398 6002:993 6003:997 6005:199 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: get 3
+RPC STATS: 1:2 6001:398 6002:995 6003:997 6005:200 
+extent_server: create inode
+extent_server: get 3
+RPC STATS: 1:2 6001:399 6002:996 6003:998 6005:200 
+extent_server: getattr 201
+extent_server: getattr 201
+extent_server: get 201
+RPC STATS: 1:2 6001:400 6002:997 6003:999 6005:200 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:400 6002:998 6003:1001 6005:200 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:400 6002:1000 6003:1002 6005:200 
+extent_server: get 3
+extent_server: create inode
+extent_server: get 3
+RPC STATS: 1:2 6001:401 6002:1001 6003:1002 6005:201 
+extent_server: getattr 202
+extent_server: getattr 202
+RPC STATS: 1:2 6001:401 6002:1002 6003:1004 6005:201 
+extent_server: get 202
+extent_server: get 1
+RPC STATS: 1:2 6001:402 6002:1003 6003:1005 6005:201 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:402 6002:1004 6003:1007 6005:201 
+extent_server: get 3
+extent_server: get 3
+extent_server: create inode
+RPC STATS: 1:2 6001:402 6002:1006 6003:1007 6005:202 
+extent_server: get 3
+extent_server: getattr 203
+RPC STATS: 1:2 6001:403 6002:1006 6003:1009 6005:202 
+extent_server: getattr 203
+extent_server: get 203
+RPC STATS: 1:2 6001:404 6002:1008 6003:1009 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:404 6002:1008 6003:1012 6005:202 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: getattr 5
+RPC STATS: 1:2 6001:404 6002:1009 6003:1014 6005:202 
+extent_server: getattr 5
+extent_server: get 2
+extent_server: write 5
+RPC STATS: 1:2 6001:405 6002:1010 6003:1014 6004:1 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+RPC STATS: 1:2 6001:405 6002:1011 6003:1016 6004:1 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:405 6002:1012 6003:1018 6004:1 6005:202 
+extent_server: getattr 7
+extent_server: getattr 7
+extent_server: get 2
+RPC STATS: 1:2 6001:405 6002:1013 6003:1019 6004:2 6005:202 
+extent_server: write 7
+extent_server: get 1
+RPC STATS: 1:2 6001:406 6002:1014 6003:1020 6004:2 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:406 6002:1015 6003:1022 6004:2 6005:202 
+extent_server: get 2
+extent_server: getattr 8
+extent_server: getattr 8
+RPC STATS: 1:2 6001:406 6002:1016 6003:1024 6004:2 6005:202 
+extent_server: get 2
+extent_server: write 8
+RPC STATS: 1:2 6001:407 6002:1017 6003:1024 6004:3 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:407 6002:1017 6003:1027 6004:3 6005:202 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: getattr 10
+RPC STATS: 1:2 6001:407 6002:1018 6003:1029 6004:3 6005:202 
+extent_server: getattr 10
+extent_server: get 2
+extent_server: write 10
+RPC STATS: 1:2 6001:408 6002:1019 6003:1029 6004:4 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+RPC STATS: 1:2 6001:408 6002:1020 6003:1031 6004:4 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:408 6002:1021 6003:1033 6004:4 6005:202 
+extent_server: getattr 12
+extent_server: getattr 12
+extent_server: get 2
+RPC STATS: 1:2 6001:408 6002:1022 6003:1034 6004:5 6005:202 
+extent_server: write 12
+extent_server: get 1
+RPC STATS: 1:2 6001:409 6002:1023 6003:1035 6004:5 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:409 6002:1024 6003:1037 6004:5 6005:202 
+extent_server: get 2
+extent_server: getattr 22
+extent_server: getattr 22
+RPC STATS: 1:2 6001:409 6002:1025 6003:1039 6004:5 6005:202 
+extent_server: get 2
+extent_server: write 22
+RPC STATS: 1:2 6001:410 6002:1026 6003:1039 6004:6 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:410 6002:1026 6003:1042 6004:6 6005:202 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: getattr 23
+RPC STATS: 1:2 6001:410 6002:1027 6003:1044 6004:6 6005:202 
+extent_server: getattr 23
+extent_server: get 2
+extent_server: write 23
+RPC STATS: 1:2 6001:411 6002:1028 6003:1044 6004:7 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+RPC STATS: 1:2 6001:411 6002:1029 6003:1046 6004:7 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:411 6002:1030 6003:1048 6004:7 6005:202 
+extent_server: getattr 34
+extent_server: getattr 34
+extent_server: get 2
+RPC STATS: 1:2 6001:411 6002:1031 6003:1049 6004:8 6005:202 
+extent_server: write 34
+extent_server: get 1
+RPC STATS: 1:2 6001:412 6002:1032 6003:1050 6004:8 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:412 6002:1033 6003:1052 6004:8 6005:202 
+extent_server: get 2
+extent_server: getattr 35
+extent_server: getattr 35
+RPC STATS: 1:2 6001:412 6002:1034 6003:1054 6004:8 6005:202 
+extent_server: get 2
+extent_server: write 35
+RPC STATS: 1:2 6001:413 6002:1035 6003:1054 6004:9 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:413 6002:1035 6003:1057 6004:9 6005:202 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: getattr 36
+RPC STATS: 1:2 6001:413 6002:1036 6003:1059 6004:9 6005:202 
+extent_server: getattr 36
+extent_server: get 2
+extent_server: write 36
+RPC STATS: 1:2 6001:414 6002:1037 6003:1059 6004:10 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+RPC STATS: 1:2 6001:414 6002:1038 6003:1061 6004:10 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:414 6002:1039 6003:1063 6004:10 6005:202 
+extent_server: getattr 37
+extent_server: getattr 37
+extent_server: get 2
+RPC STATS: 1:2 6001:414 6002:1040 6003:1064 6004:11 6005:202 
+extent_server: write 37
+extent_server: get 1
+RPC STATS: 1:2 6001:415 6002:1041 6003:1065 6004:11 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:415 6002:1042 6003:1067 6004:11 6005:202 
+extent_server: get 2
+extent_server: getattr 38
+extent_server: getattr 38
+RPC STATS: 1:2 6001:415 6002:1043 6003:1069 6004:11 6005:202 
+extent_server: get 2
+extent_server: write 38
+RPC STATS: 1:2 6001:416 6002:1044 6003:1069 6004:12 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:416 6002:1044 6003:1072 6004:12 6005:202 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: getattr 39
+RPC STATS: 1:2 6001:416 6002:1045 6003:1074 6004:12 6005:202 
+extent_server: getattr 39
+extent_server: get 2
+extent_server: write 39
+RPC STATS: 1:2 6001:417 6002:1046 6003:1074 6004:13 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+RPC STATS: 1:2 6001:417 6002:1047 6003:1076 6004:13 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:417 6002:1048 6003:1078 6004:13 6005:202 
+extent_server: getattr 40
+extent_server: getattr 40
+extent_server: get 2
+RPC STATS: 1:2 6001:417 6002:1049 6003:1079 6004:14 6005:202 
+extent_server: write 40
+extent_server: get 1
+RPC STATS: 1:2 6001:418 6002:1050 6003:1080 6004:14 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:418 6002:1051 6003:1082 6004:14 6005:202 
+extent_server: get 2
+extent_server: getattr 42
+extent_server: getattr 42
+RPC STATS: 1:2 6001:418 6002:1052 6003:1084 6004:14 6005:202 
+extent_server: get 2
+extent_server: write 42
+RPC STATS: 1:2 6001:419 6002:1053 6003:1084 6004:15 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:419 6002:1053 6003:1087 6004:15 6005:202 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: getattr 44
+RPC STATS: 1:2 6001:419 6002:1054 6003:1089 6004:15 6005:202 
+extent_server: getattr 44
+extent_server: get 2
+extent_server: write 44
+RPC STATS: 1:2 6001:420 6002:1055 6003:1089 6004:16 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+RPC STATS: 1:2 6001:420 6002:1056 6003:1091 6004:16 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:420 6002:1057 6003:1093 6004:16 6005:202 
+extent_server: getattr 46
+extent_server: getattr 46
+extent_server: get 2
+RPC STATS: 1:2 6001:420 6002:1058 6003:1094 6004:17 6005:202 
+extent_server: write 46
+extent_server: get 1
+RPC STATS: 1:2 6001:421 6002:1059 6003:1095 6004:17 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:421 6002:1060 6003:1097 6004:17 6005:202 
+extent_server: get 2
+extent_server: getattr 47
+extent_server: getattr 47
+RPC STATS: 1:2 6001:421 6002:1061 6003:1099 6004:17 6005:202 
+extent_server: get 2
+extent_server: write 47
+RPC STATS: 1:2 6001:422 6002:1062 6003:1099 6004:18 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:422 6002:1062 6003:1102 6004:18 6005:202 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: getattr 48
+RPC STATS: 1:2 6001:422 6002:1063 6003:1104 6004:18 6005:202 
+extent_server: getattr 48
+extent_server: get 2
+extent_server: write 48
+RPC STATS: 1:2 6001:423 6002:1064 6003:1104 6004:19 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+RPC STATS: 1:2 6001:423 6002:1065 6003:1106 6004:19 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:423 6002:1066 6003:1108 6004:19 6005:202 
+extent_server: getattr 51
+extent_server: getattr 51
+extent_server: get 2
+RPC STATS: 1:2 6001:423 6002:1067 6003:1109 6004:20 6005:202 
+extent_server: write 51
+extent_server: get 1
+RPC STATS: 1:2 6001:424 6002:1068 6003:1110 6004:20 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:424 6002:1069 6003:1112 6004:20 6005:202 
+extent_server: get 2
+extent_server: getattr 53
+extent_server: getattr 53
+RPC STATS: 1:2 6001:424 6002:1070 6003:1114 6004:20 6005:202 
+extent_server: get 2
+extent_server: write 53
+RPC STATS: 1:2 6001:425 6002:1071 6003:1114 6004:21 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:425 6002:1071 6003:1117 6004:21 6005:202 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: getattr 55
+RPC STATS: 1:2 6001:425 6002:1072 6003:1119 6004:21 6005:202 
+extent_server: getattr 55
+extent_server: get 2
+extent_server: write 55
+RPC STATS: 1:2 6001:426 6002:1073 6003:1119 6004:22 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+RPC STATS: 1:2 6001:426 6002:1074 6003:1121 6004:22 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:426 6002:1075 6003:1123 6004:22 6005:202 
+extent_server: getattr 66
+extent_server: getattr 66
+extent_server: get 2
+RPC STATS: 1:2 6001:426 6002:1076 6003:1124 6004:23 6005:202 
+extent_server: write 66
+extent_server: get 1
+RPC STATS: 1:2 6001:427 6002:1077 6003:1125 6004:23 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:427 6002:1078 6003:1127 6004:23 6005:202 
+extent_server: get 2
+extent_server: getattr 67
+extent_server: getattr 67
+RPC STATS: 1:2 6001:427 6002:1079 6003:1129 6004:23 6005:202 
+extent_server: get 2
+extent_server: write 67
+RPC STATS: 1:2 6001:428 6002:1080 6003:1129 6004:24 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:428 6002:1080 6003:1132 6004:24 6005:202 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: getattr 68
+RPC STATS: 1:2 6001:428 6002:1081 6003:1134 6004:24 6005:202 
+extent_server: getattr 68
+extent_server: get 2
+extent_server: write 68
+RPC STATS: 1:2 6001:429 6002:1082 6003:1134 6004:25 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+RPC STATS: 1:2 6001:429 6002:1083 6003:1136 6004:25 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:429 6002:1084 6003:1138 6004:25 6005:202 
+extent_server: getattr 69
+extent_server: getattr 69
+extent_server: get 2
+RPC STATS: 1:2 6001:429 6002:1085 6003:1139 6004:26 6005:202 
+extent_server: write 69
+extent_server: get 1
+RPC STATS: 1:2 6001:430 6002:1086 6003:1140 6004:26 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:430 6002:1087 6003:1142 6004:26 6005:202 
+extent_server: get 2
+extent_server: getattr 70
+extent_server: getattr 70
+RPC STATS: 1:2 6001:430 6002:1088 6003:1144 6004:26 6005:202 
+extent_server: get 2
+extent_server: write 70
+RPC STATS: 1:2 6001:431 6002:1089 6003:1144 6004:27 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:431 6002:1089 6003:1147 6004:27 6005:202 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: getattr 71
+RPC STATS: 1:2 6001:431 6002:1090 6003:1149 6004:27 6005:202 
+extent_server: getattr 71
+extent_server: get 2
+extent_server: write 71
+RPC STATS: 1:2 6001:432 6002:1091 6003:1149 6004:28 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+RPC STATS: 1:2 6001:432 6002:1092 6003:1151 6004:28 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:432 6002:1093 6003:1153 6004:28 6005:202 
+extent_server: getattr 72
+extent_server: getattr 72
+extent_server: get 2
+RPC STATS: 1:2 6001:432 6002:1094 6003:1154 6004:29 6005:202 
+extent_server: write 72
+extent_server: get 1
+RPC STATS: 1:2 6001:433 6002:1095 6003:1155 6004:29 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:433 6002:1096 6003:1157 6004:29 6005:202 
+extent_server: get 2
+extent_server: getattr 73
+extent_server: getattr 73
+RPC STATS: 1:2 6001:433 6002:1097 6003:1159 6004:29 6005:202 
+extent_server: get 2
+extent_server: write 73
+RPC STATS: 1:2 6001:434 6002:1098 6003:1159 6004:30 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:434 6002:1098 6003:1162 6004:30 6005:202 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: getattr 74
+RPC STATS: 1:2 6001:434 6002:1099 6003:1164 6004:30 6005:202 
+extent_server: getattr 74
+extent_server: get 2
+extent_server: write 74
+RPC STATS: 1:2 6001:435 6002:1100 6003:1164 6004:31 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+RPC STATS: 1:2 6001:435 6002:1101 6003:1166 6004:31 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:435 6002:1102 6003:1168 6004:31 6005:202 
+extent_server: getattr 76
+extent_server: getattr 76
+extent_server: get 2
+RPC STATS: 1:2 6001:435 6002:1103 6003:1169 6004:32 6005:202 
+extent_server: write 76
+extent_server: get 1
+RPC STATS: 1:2 6001:436 6002:1104 6003:1170 6004:32 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:436 6002:1105 6003:1172 6004:32 6005:202 
+extent_server: get 2
+extent_server: getattr 78
+extent_server: getattr 78
+RPC STATS: 1:2 6001:436 6002:1106 6003:1174 6004:32 6005:202 
+extent_server: get 2
+extent_server: write 78
+RPC STATS: 1:2 6001:437 6002:1107 6003:1174 6004:33 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:437 6002:1107 6003:1177 6004:33 6005:202 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: getattr 129
+RPC STATS: 1:2 6001:437 6002:1108 6003:1179 6004:33 6005:202 
+extent_server: getattr 129
+extent_server: get 2
+extent_server: write 129
+RPC STATS: 1:2 6001:438 6002:1109 6003:1179 6004:34 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+RPC STATS: 1:2 6001:438 6002:1110 6003:1181 6004:34 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:438 6002:1111 6003:1183 6004:34 6005:202 
+extent_server: getattr 130
+extent_server: getattr 130
+extent_server: get 2
+RPC STATS: 1:2 6001:438 6002:1112 6003:1184 6004:35 6005:202 
+extent_server: write 130
+extent_server: get 1
+RPC STATS: 1:2 6001:439 6002:1113 6003:1185 6004:35 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:439 6002:1114 6003:1187 6004:35 6005:202 
+extent_server: get 2
+extent_server: getattr 131
+extent_server: getattr 131
+RPC STATS: 1:2 6001:439 6002:1115 6003:1189 6004:35 6005:202 
+extent_server: get 2
+extent_server: write 131
+RPC STATS: 1:2 6001:440 6002:1116 6003:1189 6004:36 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:440 6002:1116 6003:1192 6004:36 6005:202 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: getattr 132
+RPC STATS: 1:2 6001:440 6002:1117 6003:1194 6004:36 6005:202 
+extent_server: getattr 132
+extent_server: get 2
+extent_server: write 132
+RPC STATS: 1:2 6001:441 6002:1118 6003:1194 6004:37 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+RPC STATS: 1:2 6001:441 6002:1119 6003:1196 6004:37 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:441 6002:1120 6003:1198 6004:37 6005:202 
+extent_server: getattr 133
+extent_server: getattr 133
+extent_server: get 2
+RPC STATS: 1:2 6001:441 6002:1121 6003:1199 6004:38 6005:202 
+extent_server: write 133
+extent_server: get 1
+RPC STATS: 1:2 6001:442 6002:1122 6003:1200 6004:38 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:442 6002:1123 6003:1202 6004:38 6005:202 
+extent_server: get 2
+extent_server: getattr 134
+extent_server: getattr 134
+RPC STATS: 1:2 6001:442 6002:1124 6003:1204 6004:38 6005:202 
+extent_server: get 2
+extent_server: write 134
+RPC STATS: 1:2 6001:443 6002:1125 6003:1204 6004:39 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:443 6002:1125 6003:1207 6004:39 6005:202 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: getattr 135
+RPC STATS: 1:2 6001:443 6002:1126 6003:1209 6004:39 6005:202 
+extent_server: getattr 135
+extent_server: get 2
+extent_server: write 135
+RPC STATS: 1:2 6001:444 6002:1127 6003:1209 6004:40 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+RPC STATS: 1:2 6001:444 6002:1128 6003:1211 6004:40 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:444 6002:1129 6003:1213 6004:40 6005:202 
+extent_server: getattr 136
+extent_server: getattr 136
+extent_server: get 2
+RPC STATS: 1:2 6001:444 6002:1130 6003:1214 6004:41 6005:202 
+extent_server: write 136
+extent_server: get 1
+RPC STATS: 1:2 6001:445 6002:1131 6003:1215 6004:41 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:445 6002:1132 6003:1217 6004:41 6005:202 
+extent_server: get 2
+extent_server: getattr 137
+extent_server: getattr 137
+RPC STATS: 1:2 6001:445 6002:1133 6003:1219 6004:41 6005:202 
+extent_server: get 2
+extent_server: write 137
+RPC STATS: 1:2 6001:446 6002:1134 6003:1219 6004:42 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:446 6002:1134 6003:1222 6004:42 6005:202 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: getattr 138
+RPC STATS: 1:2 6001:446 6002:1135 6003:1224 6004:42 6005:202 
+extent_server: getattr 138
+extent_server: get 2
+extent_server: write 138
+RPC STATS: 1:2 6001:447 6002:1136 6003:1224 6004:43 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+RPC STATS: 1:2 6001:447 6002:1137 6003:1226 6004:43 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:447 6002:1138 6003:1228 6004:43 6005:202 
+extent_server: getattr 139
+extent_server: getattr 139
+extent_server: get 2
+RPC STATS: 1:2 6001:447 6002:1139 6003:1229 6004:44 6005:202 
+extent_server: write 139
+extent_server: get 1
+RPC STATS: 1:2 6001:448 6002:1140 6003:1230 6004:44 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:448 6002:1141 6003:1232 6004:44 6005:202 
+extent_server: get 2
+extent_server: getattr 140
+extent_server: getattr 140
+RPC STATS: 1:2 6001:448 6002:1142 6003:1234 6004:44 6005:202 
+extent_server: get 2
+extent_server: write 140
+RPC STATS: 1:2 6001:449 6002:1143 6003:1234 6004:45 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:449 6002:1143 6003:1237 6004:45 6005:202 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: getattr 141
+RPC STATS: 1:2 6001:449 6002:1144 6003:1239 6004:45 6005:202 
+extent_server: getattr 141
+extent_server: get 2
+extent_server: write 141
+RPC STATS: 1:2 6001:450 6002:1145 6003:1239 6004:46 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+RPC STATS: 1:2 6001:450 6002:1146 6003:1241 6004:46 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:450 6002:1147 6003:1243 6004:46 6005:202 
+extent_server: getattr 142
+extent_server: getattr 142
+extent_server: get 2
+RPC STATS: 1:2 6001:450 6002:1148 6003:1244 6004:47 6005:202 
+extent_server: write 142
+extent_server: get 1
+RPC STATS: 1:2 6001:451 6002:1149 6003:1245 6004:47 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:451 6002:1150 6003:1247 6004:47 6005:202 
+extent_server: get 2
+extent_server: getattr 143
+extent_server: getattr 143
+RPC STATS: 1:2 6001:451 6002:1151 6003:1249 6004:47 6005:202 
+extent_server: get 2
+extent_server: write 143
+RPC STATS: 1:2 6001:452 6002:1152 6003:1249 6004:48 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:452 6002:1152 6003:1252 6004:48 6005:202 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: getattr 144
+RPC STATS: 1:2 6001:452 6002:1153 6003:1254 6004:48 6005:202 
+extent_server: getattr 144
+extent_server: get 2
+extent_server: write 144
+RPC STATS: 1:2 6001:453 6002:1154 6003:1254 6004:49 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+RPC STATS: 1:2 6001:453 6002:1155 6003:1256 6004:49 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:453 6002:1156 6003:1258 6004:49 6005:202 
+extent_server: getattr 145
+extent_server: getattr 145
+extent_server: get 2
+RPC STATS: 1:2 6001:453 6002:1157 6003:1259 6004:50 6005:202 
+extent_server: write 145
+extent_server: get 1
+RPC STATS: 1:2 6001:454 6002:1158 6003:1260 6004:50 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:454 6002:1159 6003:1262 6004:50 6005:202 
+extent_server: get 2
+extent_server: getattr 146
+extent_server: getattr 146
+RPC STATS: 1:2 6001:454 6002:1160 6003:1264 6004:50 6005:202 
+extent_server: get 2
+extent_server: write 146
+RPC STATS: 1:2 6001:455 6002:1161 6003:1264 6004:51 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:455 6002:1161 6003:1267 6004:51 6005:202 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: getattr 147
+RPC STATS: 1:2 6001:455 6002:1162 6003:1269 6004:51 6005:202 
+extent_server: getattr 147
+extent_server: get 2
+extent_server: write 147
+RPC STATS: 1:2 6001:456 6002:1163 6003:1269 6004:52 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+RPC STATS: 1:2 6001:456 6002:1164 6003:1271 6004:52 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:456 6002:1165 6003:1273 6004:52 6005:202 
+extent_server: getattr 148
+extent_server: getattr 148
+extent_server: get 2
+RPC STATS: 1:2 6001:456 6002:1166 6003:1274 6004:53 6005:202 
+extent_server: write 148
+extent_server: get 1
+RPC STATS: 1:2 6001:457 6002:1167 6003:1275 6004:53 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:457 6002:1168 6003:1277 6004:53 6005:202 
+extent_server: get 2
+extent_server: getattr 149
+extent_server: getattr 149
+RPC STATS: 1:2 6001:457 6002:1169 6003:1279 6004:53 6005:202 
+extent_server: get 2
+extent_server: write 149
+RPC STATS: 1:2 6001:458 6002:1170 6003:1279 6004:54 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:458 6002:1170 6003:1282 6004:54 6005:202 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: getattr 150
+RPC STATS: 1:2 6001:458 6002:1171 6003:1284 6004:54 6005:202 
+extent_server: getattr 150
+extent_server: get 2
+extent_server: write 150
+RPC STATS: 1:2 6001:459 6002:1172 6003:1284 6004:55 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+RPC STATS: 1:2 6001:459 6002:1173 6003:1286 6004:55 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:459 6002:1174 6003:1288 6004:55 6005:202 
+extent_server: getattr 151
+extent_server: getattr 151
+extent_server: get 2
+RPC STATS: 1:2 6001:459 6002:1175 6003:1289 6004:56 6005:202 
+extent_server: write 151
+extent_server: get 1
+RPC STATS: 1:2 6001:460 6002:1176 6003:1290 6004:56 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:460 6002:1177 6003:1292 6004:56 6005:202 
+extent_server: get 2
+extent_server: getattr 152
+extent_server: getattr 152
+RPC STATS: 1:2 6001:460 6002:1178 6003:1294 6004:56 6005:202 
+extent_server: get 2
+extent_server: write 152
+RPC STATS: 1:2 6001:461 6002:1179 6003:1294 6004:57 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:461 6002:1179 6003:1297 6004:57 6005:202 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: getattr 153
+RPC STATS: 1:2 6001:461 6002:1180 6003:1299 6004:57 6005:202 
+extent_server: getattr 153
+extent_server: get 2
+extent_server: write 153
+RPC STATS: 1:2 6001:462 6002:1181 6003:1299 6004:58 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+RPC STATS: 1:2 6001:462 6002:1182 6003:1301 6004:58 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:462 6002:1183 6003:1303 6004:58 6005:202 
+extent_server: getattr 154
+extent_server: getattr 154
+extent_server: get 2
+RPC STATS: 1:2 6001:462 6002:1184 6003:1304 6004:59 6005:202 
+extent_server: write 154
+extent_server: get 1
+RPC STATS: 1:2 6001:463 6002:1185 6003:1305 6004:59 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:463 6002:1186 6003:1307 6004:59 6005:202 
+extent_server: get 2
+extent_server: getattr 155
+extent_server: getattr 155
+RPC STATS: 1:2 6001:463 6002:1187 6003:1309 6004:59 6005:202 
+extent_server: get 2
+extent_server: write 155
+RPC STATS: 1:2 6001:464 6002:1188 6003:1309 6004:60 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:464 6002:1188 6003:1312 6004:60 6005:202 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: getattr 158
+RPC STATS: 1:2 6001:464 6002:1189 6003:1314 6004:60 6005:202 
+extent_server: getattr 158
+extent_server: get 2
+extent_server: write 158
+RPC STATS: 1:2 6001:465 6002:1190 6003:1314 6004:61 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+RPC STATS: 1:2 6001:465 6002:1191 6003:1316 6004:61 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:465 6002:1192 6003:1318 6004:61 6005:202 
+extent_server: getattr 159
+extent_server: getattr 159
+extent_server: get 2
+RPC STATS: 1:2 6001:465 6002:1193 6003:1319 6004:62 6005:202 
+extent_server: write 159
+extent_server: get 1
+RPC STATS: 1:2 6001:466 6002:1194 6003:1320 6004:62 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:466 6002:1195 6003:1322 6004:62 6005:202 
+extent_server: get 2
+extent_server: getattr 160
+extent_server: getattr 160
+RPC STATS: 1:2 6001:466 6002:1196 6003:1324 6004:62 6005:202 
+extent_server: get 2
+extent_server: write 160
+RPC STATS: 1:2 6001:467 6002:1197 6003:1324 6004:63 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:467 6002:1197 6003:1327 6004:63 6005:202 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: getattr 161
+RPC STATS: 1:2 6001:467 6002:1198 6003:1329 6004:63 6005:202 
+extent_server: getattr 161
+extent_server: get 2
+extent_server: write 161
+RPC STATS: 1:2 6001:468 6002:1199 6003:1329 6004:64 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+RPC STATS: 1:2 6001:468 6002:1200 6003:1331 6004:64 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:468 6002:1201 6003:1333 6004:64 6005:202 
+extent_server: getattr 162
+extent_server: getattr 162
+extent_server: get 2
+RPC STATS: 1:2 6001:468 6002:1202 6003:1334 6004:65 6005:202 
+extent_server: write 162
+extent_server: get 1
+RPC STATS: 1:2 6001:469 6002:1203 6003:1335 6004:65 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:469 6002:1204 6003:1337 6004:65 6005:202 
+extent_server: get 2
+extent_server: getattr 163
+extent_server: getattr 163
+RPC STATS: 1:2 6001:469 6002:1205 6003:1339 6004:65 6005:202 
+extent_server: get 2
+extent_server: write 163
+RPC STATS: 1:2 6001:470 6002:1206 6003:1339 6004:66 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:470 6002:1206 6003:1342 6004:66 6005:202 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: getattr 164
+RPC STATS: 1:2 6001:470 6002:1207 6003:1344 6004:66 6005:202 
+extent_server: getattr 164
+extent_server: get 2
+extent_server: write 164
+RPC STATS: 1:2 6001:471 6002:1208 6003:1344 6004:67 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+RPC STATS: 1:2 6001:471 6002:1209 6003:1346 6004:67 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:471 6002:1210 6003:1348 6004:67 6005:202 
+extent_server: getattr 165
+extent_server: getattr 165
+extent_server: get 2
+RPC STATS: 1:2 6001:471 6002:1211 6003:1349 6004:68 6005:202 
+extent_server: write 165
+extent_server: get 1
+RPC STATS: 1:2 6001:472 6002:1212 6003:1350 6004:68 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:472 6002:1213 6003:1352 6004:68 6005:202 
+extent_server: get 2
+extent_server: getattr 166
+extent_server: getattr 166
+RPC STATS: 1:2 6001:472 6002:1214 6003:1354 6004:68 6005:202 
+extent_server: get 2
+extent_server: write 166
+RPC STATS: 1:2 6001:473 6002:1215 6003:1354 6004:69 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:473 6002:1215 6003:1357 6004:69 6005:202 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: getattr 167
+RPC STATS: 1:2 6001:473 6002:1216 6003:1359 6004:69 6005:202 
+extent_server: getattr 167
+extent_server: get 2
+extent_server: write 167
+RPC STATS: 1:2 6001:474 6002:1217 6003:1359 6004:70 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+RPC STATS: 1:2 6001:474 6002:1218 6003:1361 6004:70 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:474 6002:1219 6003:1363 6004:70 6005:202 
+extent_server: getattr 168
+extent_server: getattr 168
+extent_server: get 2
+RPC STATS: 1:2 6001:474 6002:1220 6003:1364 6004:71 6005:202 
+extent_server: write 168
+extent_server: get 1
+RPC STATS: 1:2 6001:475 6002:1221 6003:1365 6004:71 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:475 6002:1222 6003:1367 6004:71 6005:202 
+extent_server: get 2
+extent_server: getattr 169
+extent_server: getattr 169
+RPC STATS: 1:2 6001:475 6002:1223 6003:1369 6004:71 6005:202 
+extent_server: get 2
+extent_server: write 169
+RPC STATS: 1:2 6001:476 6002:1224 6003:1369 6004:72 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:476 6002:1224 6003:1372 6004:72 6005:202 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: getattr 170
+RPC STATS: 1:2 6001:476 6002:1225 6003:1374 6004:72 6005:202 
+extent_server: getattr 170
+extent_server: get 2
+extent_server: write 170
+RPC STATS: 1:2 6001:477 6002:1226 6003:1374 6004:73 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+RPC STATS: 1:2 6001:477 6002:1227 6003:1376 6004:73 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:477 6002:1228 6003:1378 6004:73 6005:202 
+extent_server: getattr 171
+extent_server: getattr 171
+extent_server: get 2
+RPC STATS: 1:2 6001:477 6002:1229 6003:1379 6004:74 6005:202 
+extent_server: write 171
+extent_server: get 1
+RPC STATS: 1:2 6001:478 6002:1230 6003:1380 6004:74 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:478 6002:1231 6003:1382 6004:74 6005:202 
+extent_server: get 2
+extent_server: getattr 172
+extent_server: getattr 172
+RPC STATS: 1:2 6001:478 6002:1232 6003:1384 6004:74 6005:202 
+extent_server: get 2
+extent_server: write 172
+RPC STATS: 1:2 6001:479 6002:1233 6003:1384 6004:75 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:479 6002:1233 6003:1387 6004:75 6005:202 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: getattr 173
+RPC STATS: 1:2 6001:479 6002:1234 6003:1389 6004:75 6005:202 
+extent_server: getattr 173
+extent_server: get 2
+extent_server: write 173
+RPC STATS: 1:2 6001:480 6002:1235 6003:1389 6004:76 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+RPC STATS: 1:2 6001:480 6002:1236 6003:1391 6004:76 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:480 6002:1237 6003:1393 6004:76 6005:202 
+extent_server: getattr 174
+extent_server: getattr 174
+extent_server: get 2
+RPC STATS: 1:2 6001:480 6002:1238 6003:1394 6004:77 6005:202 
+extent_server: write 174
+extent_server: get 1
+RPC STATS: 1:2 6001:481 6002:1239 6003:1395 6004:77 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:481 6002:1240 6003:1397 6004:77 6005:202 
+extent_server: get 2
+extent_server: getattr 175
+extent_server: getattr 175
+RPC STATS: 1:2 6001:481 6002:1241 6003:1399 6004:77 6005:202 
+extent_server: get 2
+extent_server: write 175
+RPC STATS: 1:2 6001:482 6002:1242 6003:1399 6004:78 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:482 6002:1242 6003:1402 6004:78 6005:202 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: getattr 176
+RPC STATS: 1:2 6001:482 6002:1243 6003:1404 6004:78 6005:202 
+extent_server: getattr 176
+extent_server: get 2
+extent_server: write 176
+RPC STATS: 1:2 6001:483 6002:1244 6003:1404 6004:79 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+RPC STATS: 1:2 6001:483 6002:1245 6003:1406 6004:79 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:483 6002:1246 6003:1408 6004:79 6005:202 
+extent_server: getattr 177
+extent_server: getattr 177
+extent_server: get 2
+RPC STATS: 1:2 6001:483 6002:1247 6003:1409 6004:80 6005:202 
+extent_server: write 177
+extent_server: get 1
+RPC STATS: 1:2 6001:484 6002:1248 6003:1410 6004:80 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:484 6002:1249 6003:1412 6004:80 6005:202 
+extent_server: get 2
+extent_server: getattr 178
+extent_server: getattr 178
+RPC STATS: 1:2 6001:484 6002:1250 6003:1414 6004:80 6005:202 
+extent_server: get 2
+extent_server: write 178
+RPC STATS: 1:2 6001:485 6002:1251 6003:1414 6004:81 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:485 6002:1251 6003:1417 6004:81 6005:202 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: getattr 179
+RPC STATS: 1:2 6001:485 6002:1252 6003:1419 6004:81 6005:202 
+extent_server: getattr 179
+extent_server: get 2
+extent_server: write 179
+RPC STATS: 1:2 6001:486 6002:1253 6003:1419 6004:82 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+RPC STATS: 1:2 6001:486 6002:1254 6003:1421 6004:82 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:486 6002:1255 6003:1423 6004:82 6005:202 
+extent_server: getattr 180
+extent_server: getattr 180
+extent_server: get 2
+RPC STATS: 1:2 6001:486 6002:1256 6003:1424 6004:83 6005:202 
+extent_server: write 180
+extent_server: get 1
+RPC STATS: 1:2 6001:487 6002:1257 6003:1425 6004:83 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:487 6002:1258 6003:1427 6004:83 6005:202 
+extent_server: get 2
+extent_server: getattr 181
+extent_server: getattr 181
+RPC STATS: 1:2 6001:487 6002:1259 6003:1429 6004:83 6005:202 
+extent_server: get 2
+extent_server: write 181
+RPC STATS: 1:2 6001:488 6002:1260 6003:1429 6004:84 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:488 6002:1260 6003:1432 6004:84 6005:202 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: getattr 182
+RPC STATS: 1:2 6001:488 6002:1261 6003:1434 6004:84 6005:202 
+extent_server: getattr 182
+extent_server: get 2
+extent_server: write 182
+RPC STATS: 1:2 6001:489 6002:1262 6003:1434 6004:85 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+RPC STATS: 1:2 6001:489 6002:1263 6003:1436 6004:85 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:489 6002:1264 6003:1438 6004:85 6005:202 
+extent_server: getattr 183
+extent_server: getattr 183
+extent_server: get 2
+RPC STATS: 1:2 6001:489 6002:1265 6003:1439 6004:86 6005:202 
+extent_server: write 183
+extent_server: get 1
+RPC STATS: 1:2 6001:490 6002:1266 6003:1440 6004:86 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:490 6002:1267 6003:1442 6004:86 6005:202 
+extent_server: get 2
+extent_server: getattr 184
+extent_server: getattr 184
+RPC STATS: 1:2 6001:490 6002:1268 6003:1444 6004:86 6005:202 
+extent_server: get 2
+extent_server: write 184
+RPC STATS: 1:2 6001:491 6002:1269 6003:1444 6004:87 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:491 6002:1269 6003:1447 6004:87 6005:202 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: getattr 185
+RPC STATS: 1:2 6001:491 6002:1270 6003:1449 6004:87 6005:202 
+extent_server: getattr 185
+extent_server: get 2
+extent_server: write 185
+RPC STATS: 1:2 6001:492 6002:1271 6003:1449 6004:88 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+RPC STATS: 1:2 6001:492 6002:1272 6003:1451 6004:88 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:492 6002:1273 6003:1453 6004:88 6005:202 
+extent_server: getattr 186
+extent_server: getattr 186
+extent_server: get 2
+RPC STATS: 1:2 6001:492 6002:1274 6003:1454 6004:89 6005:202 
+extent_server: write 186
+extent_server: get 1
+RPC STATS: 1:2 6001:493 6002:1275 6003:1455 6004:89 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:493 6002:1276 6003:1457 6004:89 6005:202 
+extent_server: get 2
+extent_server: getattr 187
+extent_server: getattr 187
+RPC STATS: 1:2 6001:493 6002:1277 6003:1459 6004:89 6005:202 
+extent_server: get 2
+extent_server: write 187
+RPC STATS: 1:2 6001:494 6002:1278 6003:1459 6004:90 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:494 6002:1278 6003:1462 6004:90 6005:202 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: getattr 188
+RPC STATS: 1:2 6001:494 6002:1279 6003:1464 6004:90 6005:202 
+extent_server: getattr 188
+extent_server: get 2
+extent_server: write 188
+RPC STATS: 1:2 6001:495 6002:1280 6003:1464 6004:91 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+RPC STATS: 1:2 6001:495 6002:1281 6003:1466 6004:91 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:495 6002:1282 6003:1468 6004:91 6005:202 
+extent_server: getattr 189
+extent_server: getattr 189
+extent_server: get 2
+RPC STATS: 1:2 6001:495 6002:1283 6003:1469 6004:92 6005:202 
+extent_server: write 189
+extent_server: get 1
+RPC STATS: 1:2 6001:496 6002:1284 6003:1470 6004:92 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:496 6002:1285 6003:1472 6004:92 6005:202 
+extent_server: get 2
+extent_server: getattr 190
+extent_server: getattr 190
+RPC STATS: 1:2 6001:496 6002:1286 6003:1474 6004:92 6005:202 
+extent_server: get 2
+extent_server: write 190
+RPC STATS: 1:2 6001:497 6002:1287 6003:1474 6004:93 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:497 6002:1287 6003:1477 6004:93 6005:202 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: getattr 191
+RPC STATS: 1:2 6001:497 6002:1288 6003:1479 6004:93 6005:202 
+extent_server: getattr 191
+extent_server: get 2
+extent_server: write 191
+RPC STATS: 1:2 6001:498 6002:1289 6003:1479 6004:94 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+RPC STATS: 1:2 6001:498 6002:1290 6003:1481 6004:94 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:498 6002:1291 6003:1483 6004:94 6005:202 
+extent_server: getattr 192
+extent_server: getattr 192
+extent_server: get 2
+RPC STATS: 1:2 6001:498 6002:1292 6003:1484 6004:95 6005:202 
+extent_server: write 192
+extent_server: get 1
+RPC STATS: 1:2 6001:499 6002:1293 6003:1485 6004:95 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:499 6002:1294 6003:1487 6004:95 6005:202 
+extent_server: get 2
+extent_server: getattr 193
+extent_server: getattr 193
+RPC STATS: 1:2 6001:499 6002:1295 6003:1489 6004:95 6005:202 
+extent_server: get 2
+extent_server: write 193
+RPC STATS: 1:2 6001:500 6002:1296 6003:1489 6004:96 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:500 6002:1296 6003:1492 6004:96 6005:202 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: getattr 194
+RPC STATS: 1:2 6001:500 6002:1297 6003:1494 6004:96 6005:202 
+extent_server: getattr 194
+extent_server: get 2
+extent_server: write 194
+RPC STATS: 1:2 6001:501 6002:1298 6003:1494 6004:97 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+RPC STATS: 1:2 6001:501 6002:1299 6003:1496 6004:97 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:501 6002:1300 6003:1498 6004:97 6005:202 
+extent_server: getattr 195
+extent_server: getattr 195
+extent_server: get 2
+RPC STATS: 1:2 6001:501 6002:1301 6003:1499 6004:98 6005:202 
+extent_server: write 195
+extent_server: get 1
+RPC STATS: 1:2 6001:502 6002:1302 6003:1500 6004:98 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:502 6002:1303 6003:1502 6004:98 6005:202 
+extent_server: get 2
+extent_server: getattr 196
+extent_server: getattr 196
+RPC STATS: 1:2 6001:502 6002:1304 6003:1504 6004:98 6005:202 
+extent_server: get 2
+extent_server: write 196
+RPC STATS: 1:2 6001:503 6002:1305 6003:1504 6004:99 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:503 6002:1305 6003:1507 6004:99 6005:202 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: getattr 4
+RPC STATS: 1:2 6001:503 6002:1306 6003:1509 6004:99 6005:202 
+extent_server: getattr 4
+extent_server: get 3
+extent_server: write 4
+RPC STATS: 1:2 6001:504 6002:1307 6003:1509 6004:100 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:504 6002:1308 6003:1511 6004:100 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:504 6002:1309 6003:1513 6004:100 6005:202 
+extent_server: getattr 6
+extent_server: getattr 6
+extent_server: get 3
+RPC STATS: 1:2 6001:504 6002:1310 6003:1514 6004:101 6005:202 
+extent_server: write 6
+extent_server: get 1
+RPC STATS: 1:2 6001:505 6002:1311 6003:1515 6004:101 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:505 6002:1312 6003:1517 6004:101 6005:202 
+extent_server: get 3
+extent_server: getattr 9
+extent_server: getattr 9
+RPC STATS: 1:2 6001:505 6002:1313 6003:1519 6004:101 6005:202 
+extent_server: get 3
+extent_server: write 9
+RPC STATS: 1:2 6001:506 6002:1314 6003:1519 6004:102 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:506 6002:1314 6003:1522 6004:102 6005:202 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: getattr 11
+RPC STATS: 1:2 6001:506 6002:1315 6003:1524 6004:102 6005:202 
+extent_server: getattr 11
+extent_server: get 3
+extent_server: write 11
+RPC STATS: 1:2 6001:507 6002:1316 6003:1524 6004:103 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:507 6002:1317 6003:1526 6004:103 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:507 6002:1318 6003:1528 6004:103 6005:202 
+extent_server: getattr 13
+extent_server: getattr 13
+extent_server: get 3
+RPC STATS: 1:2 6001:507 6002:1319 6003:1529 6004:104 6005:202 
+extent_server: write 13
+extent_server: get 1
+RPC STATS: 1:2 6001:508 6002:1320 6003:1530 6004:104 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:508 6002:1321 6003:1532 6004:104 6005:202 
+extent_server: get 3
+extent_server: getattr 14
+extent_server: getattr 14
+RPC STATS: 1:2 6001:508 6002:1322 6003:1534 6004:104 6005:202 
+extent_server: get 3
+extent_server: write 14
+RPC STATS: 1:2 6001:509 6002:1323 6003:1534 6004:105 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:509 6002:1323 6003:1537 6004:105 6005:202 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: getattr 15
+RPC STATS: 1:2 6001:509 6002:1324 6003:1539 6004:105 6005:202 
+extent_server: getattr 15
+extent_server: get 3
+extent_server: write 15
+RPC STATS: 1:2 6001:510 6002:1325 6003:1539 6004:106 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:510 6002:1326 6003:1541 6004:106 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:510 6002:1327 6003:1543 6004:106 6005:202 
+extent_server: getattr 16
+extent_server: getattr 16
+extent_server: get 3
+RPC STATS: 1:2 6001:510 6002:1328 6003:1544 6004:107 6005:202 
+extent_server: write 16
+extent_server: get 1
+RPC STATS: 1:2 6001:511 6002:1329 6003:1545 6004:107 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:511 6002:1330 6003:1547 6004:107 6005:202 
+extent_server: get 3
+extent_server: getattr 17
+extent_server: getattr 17
+RPC STATS: 1:2 6001:511 6002:1331 6003:1549 6004:107 6005:202 
+extent_server: get 3
+extent_server: write 17
+RPC STATS: 1:2 6001:512 6002:1332 6003:1549 6004:108 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:512 6002:1332 6003:1552 6004:108 6005:202 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: getattr 18
+RPC STATS: 1:2 6001:512 6002:1333 6003:1554 6004:108 6005:202 
+extent_server: getattr 18
+extent_server: get 3
+extent_server: write 18
+RPC STATS: 1:2 6001:513 6002:1334 6003:1554 6004:109 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:513 6002:1335 6003:1556 6004:109 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:513 6002:1336 6003:1558 6004:109 6005:202 
+extent_server: getattr 19
+extent_server: getattr 19
+extent_server: get 3
+RPC STATS: 1:2 6001:513 6002:1337 6003:1559 6004:110 6005:202 
+extent_server: write 19
+extent_server: get 1
+RPC STATS: 1:2 6001:514 6002:1338 6003:1560 6004:110 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:514 6002:1339 6003:1562 6004:110 6005:202 
+extent_server: get 3
+extent_server: getattr 20
+extent_server: getattr 20
+RPC STATS: 1:2 6001:514 6002:1340 6003:1564 6004:110 6005:202 
+extent_server: get 3
+extent_server: write 20
+RPC STATS: 1:2 6001:515 6002:1341 6003:1564 6004:111 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:515 6002:1341 6003:1567 6004:111 6005:202 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: getattr 21
+RPC STATS: 1:2 6001:515 6002:1342 6003:1569 6004:111 6005:202 
+extent_server: getattr 21
+extent_server: get 3
+extent_server: write 21
+RPC STATS: 1:2 6001:516 6002:1343 6003:1569 6004:112 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:516 6002:1344 6003:1571 6004:112 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:516 6002:1345 6003:1573 6004:112 6005:202 
+extent_server: getattr 24
+extent_server: getattr 24
+extent_server: get 3
+RPC STATS: 1:2 6001:516 6002:1346 6003:1574 6004:113 6005:202 
+extent_server: write 24
+extent_server: get 1
+RPC STATS: 1:2 6001:517 6002:1347 6003:1575 6004:113 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:517 6002:1348 6003:1577 6004:113 6005:202 
+extent_server: get 3
+extent_server: getattr 25
+extent_server: getattr 25
+RPC STATS: 1:2 6001:517 6002:1349 6003:1579 6004:113 6005:202 
+extent_server: get 3
+extent_server: write 25
+RPC STATS: 1:2 6001:518 6002:1350 6003:1579 6004:114 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:518 6002:1350 6003:1582 6004:114 6005:202 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: getattr 26
+RPC STATS: 1:2 6001:518 6002:1351 6003:1584 6004:114 6005:202 
+extent_server: getattr 26
+extent_server: get 3
+extent_server: write 26
+RPC STATS: 1:2 6001:519 6002:1352 6003:1584 6004:115 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:519 6002:1353 6003:1586 6004:115 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:519 6002:1354 6003:1588 6004:115 6005:202 
+extent_server: getattr 27
+extent_server: getattr 27
+extent_server: get 3
+RPC STATS: 1:2 6001:519 6002:1355 6003:1589 6004:116 6005:202 
+extent_server: write 27
+extent_server: get 1
+RPC STATS: 1:2 6001:520 6002:1356 6003:1590 6004:116 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:520 6002:1357 6003:1592 6004:116 6005:202 
+extent_server: get 3
+extent_server: getattr 28
+extent_server: getattr 28
+RPC STATS: 1:2 6001:520 6002:1358 6003:1594 6004:116 6005:202 
+extent_server: get 3
+extent_server: write 28
+RPC STATS: 1:2 6001:521 6002:1359 6003:1594 6004:117 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:521 6002:1359 6003:1597 6004:117 6005:202 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: getattr 29
+RPC STATS: 1:2 6001:521 6002:1360 6003:1599 6004:117 6005:202 
+extent_server: getattr 29
+extent_server: get 3
+extent_server: write 29
+RPC STATS: 1:2 6001:522 6002:1361 6003:1599 6004:118 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:522 6002:1362 6003:1601 6004:118 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:522 6002:1363 6003:1603 6004:118 6005:202 
+extent_server: getattr 30
+extent_server: getattr 30
+extent_server: get 3
+RPC STATS: 1:2 6001:522 6002:1364 6003:1604 6004:119 6005:202 
+extent_server: write 30
+extent_server: get 1
+RPC STATS: 1:2 6001:523 6002:1365 6003:1605 6004:119 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:523 6002:1366 6003:1607 6004:119 6005:202 
+extent_server: get 3
+extent_server: getattr 31
+extent_server: getattr 31
+RPC STATS: 1:2 6001:523 6002:1367 6003:1609 6004:119 6005:202 
+extent_server: get 3
+extent_server: write 31
+RPC STATS: 1:2 6001:524 6002:1368 6003:1609 6004:120 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:524 6002:1368 6003:1612 6004:120 6005:202 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: getattr 32
+RPC STATS: 1:2 6001:524 6002:1369 6003:1614 6004:120 6005:202 
+extent_server: getattr 32
+extent_server: get 3
+extent_server: write 32
+RPC STATS: 1:2 6001:525 6002:1370 6003:1614 6004:121 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:525 6002:1371 6003:1616 6004:121 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:525 6002:1372 6003:1618 6004:121 6005:202 
+extent_server: getattr 33
+extent_server: getattr 33
+extent_server: get 3
+RPC STATS: 1:2 6001:525 6002:1373 6003:1619 6004:122 6005:202 
+extent_server: write 33
+extent_server: get 1
+RPC STATS: 1:2 6001:526 6002:1374 6003:1620 6004:122 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:526 6002:1375 6003:1622 6004:122 6005:202 
+extent_server: get 3
+extent_server: getattr 41
+extent_server: getattr 41
+RPC STATS: 1:2 6001:526 6002:1376 6003:1624 6004:122 6005:202 
+extent_server: get 3
+extent_server: write 41
+RPC STATS: 1:2 6001:527 6002:1377 6003:1624 6004:123 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:527 6002:1377 6003:1627 6004:123 6005:202 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: getattr 43
+RPC STATS: 1:2 6001:527 6002:1378 6003:1629 6004:123 6005:202 
+extent_server: getattr 43
+extent_server: get 3
+extent_server: write 43
+RPC STATS: 1:2 6001:528 6002:1379 6003:1629 6004:124 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:528 6002:1380 6003:1631 6004:124 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:528 6002:1381 6003:1633 6004:124 6005:202 
+extent_server: getattr 45
+extent_server: getattr 45
+extent_server: get 3
+RPC STATS: 1:2 6001:528 6002:1382 6003:1634 6004:125 6005:202 
+extent_server: write 45
+extent_server: get 1
+RPC STATS: 1:2 6001:529 6002:1383 6003:1635 6004:125 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:529 6002:1384 6003:1637 6004:125 6005:202 
+extent_server: get 3
+extent_server: getattr 49
+extent_server: getattr 49
+RPC STATS: 1:2 6001:529 6002:1385 6003:1639 6004:125 6005:202 
+extent_server: get 3
+extent_server: write 49
+RPC STATS: 1:2 6001:530 6002:1386 6003:1639 6004:126 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:530 6002:1386 6003:1642 6004:126 6005:202 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: getattr 50
+RPC STATS: 1:2 6001:530 6002:1387 6003:1644 6004:126 6005:202 
+extent_server: getattr 50
+extent_server: get 3
+extent_server: write 50
+RPC STATS: 1:2 6001:531 6002:1388 6003:1644 6004:127 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:531 6002:1389 6003:1646 6004:127 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:531 6002:1390 6003:1648 6004:127 6005:202 
+extent_server: getattr 52
+extent_server: getattr 52
+extent_server: get 3
+RPC STATS: 1:2 6001:531 6002:1391 6003:1649 6004:128 6005:202 
+extent_server: write 52
+extent_server: get 1
+RPC STATS: 1:2 6001:532 6002:1392 6003:1650 6004:128 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:532 6002:1393 6003:1652 6004:128 6005:202 
+extent_server: get 3
+extent_server: getattr 54
+extent_server: getattr 54
+RPC STATS: 1:2 6001:532 6002:1394 6003:1654 6004:128 6005:202 
+extent_server: get 3
+extent_server: write 54
+RPC STATS: 1:2 6001:533 6002:1395 6003:1654 6004:129 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:533 6002:1395 6003:1657 6004:129 6005:202 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: getattr 56
+RPC STATS: 1:2 6001:533 6002:1396 6003:1659 6004:129 6005:202 
+extent_server: getattr 56
+extent_server: get 3
+extent_server: write 56
+RPC STATS: 1:2 6001:534 6002:1397 6003:1659 6004:130 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:534 6002:1398 6003:1661 6004:130 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:534 6002:1399 6003:1663 6004:130 6005:202 
+extent_server: getattr 57
+extent_server: getattr 57
+extent_server: get 3
+RPC STATS: 1:2 6001:534 6002:1400 6003:1664 6004:131 6005:202 
+extent_server: write 57
+extent_server: get 1
+RPC STATS: 1:2 6001:535 6002:1401 6003:1665 6004:131 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:535 6002:1402 6003:1667 6004:131 6005:202 
+extent_server: get 3
+extent_server: getattr 58
+extent_server: getattr 58
+RPC STATS: 1:2 6001:535 6002:1403 6003:1669 6004:131 6005:202 
+extent_server: get 3
+extent_server: write 58
+RPC STATS: 1:2 6001:536 6002:1404 6003:1669 6004:132 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:536 6002:1404 6003:1672 6004:132 6005:202 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: getattr 59
+RPC STATS: 1:2 6001:536 6002:1405 6003:1674 6004:132 6005:202 
+extent_server: getattr 59
+extent_server: get 3
+extent_server: write 59
+RPC STATS: 1:2 6001:537 6002:1406 6003:1674 6004:133 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:537 6002:1407 6003:1676 6004:133 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:537 6002:1408 6003:1678 6004:133 6005:202 
+extent_server: getattr 60
+extent_server: getattr 60
+extent_server: get 3
+RPC STATS: 1:2 6001:537 6002:1409 6003:1679 6004:134 6005:202 
+extent_server: write 60
+extent_server: get 1
+RPC STATS: 1:2 6001:538 6002:1410 6003:1680 6004:134 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:538 6002:1411 6003:1682 6004:134 6005:202 
+extent_server: get 3
+extent_server: getattr 61
+extent_server: getattr 61
+RPC STATS: 1:2 6001:538 6002:1412 6003:1684 6004:134 6005:202 
+extent_server: get 3
+extent_server: write 61
+RPC STATS: 1:2 6001:539 6002:1413 6003:1684 6004:135 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:539 6002:1413 6003:1687 6004:135 6005:202 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: getattr 62
+RPC STATS: 1:2 6001:539 6002:1414 6003:1689 6004:135 6005:202 
+extent_server: getattr 62
+extent_server: get 3
+extent_server: write 62
+RPC STATS: 1:2 6001:540 6002:1415 6003:1689 6004:136 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:540 6002:1416 6003:1691 6004:136 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:540 6002:1417 6003:1693 6004:136 6005:202 
+extent_server: getattr 63
+extent_server: getattr 63
+extent_server: get 3
+RPC STATS: 1:2 6001:540 6002:1418 6003:1694 6004:137 6005:202 
+extent_server: write 63
+extent_server: get 1
+RPC STATS: 1:2 6001:541 6002:1419 6003:1695 6004:137 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:541 6002:1420 6003:1697 6004:137 6005:202 
+extent_server: get 3
+extent_server: getattr 64
+extent_server: getattr 64
+RPC STATS: 1:2 6001:541 6002:1421 6003:1699 6004:137 6005:202 
+extent_server: get 3
+extent_server: write 64
+RPC STATS: 1:2 6001:542 6002:1422 6003:1699 6004:138 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:542 6002:1422 6003:1702 6004:138 6005:202 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: getattr 65
+RPC STATS: 1:2 6001:542 6002:1423 6003:1704 6004:138 6005:202 
+extent_server: getattr 65
+extent_server: get 3
+extent_server: write 65
+RPC STATS: 1:2 6001:543 6002:1424 6003:1704 6004:139 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:543 6002:1425 6003:1706 6004:139 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:543 6002:1426 6003:1708 6004:139 6005:202 
+extent_server: getattr 75
+extent_server: getattr 75
+extent_server: get 3
+RPC STATS: 1:2 6001:543 6002:1427 6003:1709 6004:140 6005:202 
+extent_server: write 75
+extent_server: get 1
+RPC STATS: 1:2 6001:544 6002:1428 6003:1710 6004:140 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:544 6002:1429 6003:1712 6004:140 6005:202 
+extent_server: get 3
+extent_server: getattr 77
+extent_server: getattr 77
+RPC STATS: 1:2 6001:544 6002:1430 6003:1714 6004:140 6005:202 
+extent_server: get 3
+extent_server: write 77
+RPC STATS: 1:2 6001:545 6002:1431 6003:1714 6004:141 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:545 6002:1431 6003:1717 6004:141 6005:202 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: getattr 79
+RPC STATS: 1:2 6001:545 6002:1432 6003:1719 6004:141 6005:202 
+extent_server: getattr 79
+extent_server: get 3
+extent_server: write 79
+RPC STATS: 1:2 6001:546 6002:1433 6003:1719 6004:142 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:546 6002:1434 6003:1721 6004:142 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:546 6002:1435 6003:1723 6004:142 6005:202 
+extent_server: getattr 80
+extent_server: getattr 80
+extent_server: get 3
+RPC STATS: 1:2 6001:546 6002:1436 6003:1724 6004:143 6005:202 
+extent_server: write 80
+extent_server: get 1
+RPC STATS: 1:2 6001:547 6002:1437 6003:1725 6004:143 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:547 6002:1438 6003:1727 6004:143 6005:202 
+extent_server: get 3
+extent_server: getattr 81
+extent_server: getattr 81
+RPC STATS: 1:2 6001:547 6002:1439 6003:1729 6004:143 6005:202 
+extent_server: get 3
+extent_server: write 81
+RPC STATS: 1:2 6001:548 6002:1440 6003:1729 6004:144 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:548 6002:1440 6003:1732 6004:144 6005:202 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: getattr 82
+RPC STATS: 1:2 6001:548 6002:1441 6003:1734 6004:144 6005:202 
+extent_server: getattr 82
+extent_server: get 3
+extent_server: write 82
+RPC STATS: 1:2 6001:549 6002:1442 6003:1734 6004:145 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:549 6002:1443 6003:1736 6004:145 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:549 6002:1444 6003:1738 6004:145 6005:202 
+extent_server: getattr 83
+extent_server: getattr 83
+extent_server: get 3
+RPC STATS: 1:2 6001:549 6002:1445 6003:1739 6004:146 6005:202 
+extent_server: write 83
+extent_server: get 1
+RPC STATS: 1:2 6001:550 6002:1446 6003:1740 6004:146 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:550 6002:1447 6003:1742 6004:146 6005:202 
+extent_server: get 3
+extent_server: getattr 84
+extent_server: getattr 84
+RPC STATS: 1:2 6001:550 6002:1448 6003:1744 6004:146 6005:202 
+extent_server: get 3
+extent_server: write 84
+RPC STATS: 1:2 6001:551 6002:1449 6003:1744 6004:147 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:551 6002:1449 6003:1747 6004:147 6005:202 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: getattr 85
+RPC STATS: 1:2 6001:551 6002:1450 6003:1749 6004:147 6005:202 
+extent_server: getattr 85
+extent_server: get 3
+extent_server: write 85
+RPC STATS: 1:2 6001:552 6002:1451 6003:1749 6004:148 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:552 6002:1452 6003:1751 6004:148 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:552 6002:1453 6003:1753 6004:148 6005:202 
+extent_server: getattr 86
+extent_server: getattr 86
+extent_server: get 3
+RPC STATS: 1:2 6001:552 6002:1454 6003:1754 6004:149 6005:202 
+extent_server: write 86
+extent_server: get 1
+RPC STATS: 1:2 6001:553 6002:1455 6003:1755 6004:149 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:553 6002:1456 6003:1757 6004:149 6005:202 
+extent_server: get 3
+extent_server: getattr 87
+extent_server: getattr 87
+RPC STATS: 1:2 6001:553 6002:1457 6003:1759 6004:149 6005:202 
+extent_server: get 3
+extent_server: write 87
+RPC STATS: 1:2 6001:554 6002:1458 6003:1759 6004:150 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:554 6002:1458 6003:1762 6004:150 6005:202 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: getattr 88
+RPC STATS: 1:2 6001:554 6002:1459 6003:1764 6004:150 6005:202 
+extent_server: getattr 88
+extent_server: get 3
+extent_server: write 88
+RPC STATS: 1:2 6001:555 6002:1460 6003:1764 6004:151 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:555 6002:1461 6003:1766 6004:151 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:555 6002:1462 6003:1768 6004:151 6005:202 
+extent_server: getattr 89
+extent_server: getattr 89
+extent_server: get 3
+RPC STATS: 1:2 6001:555 6002:1463 6003:1769 6004:152 6005:202 
+extent_server: write 89
+extent_server: get 1
+RPC STATS: 1:2 6001:556 6002:1464 6003:1770 6004:152 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:556 6002:1465 6003:1772 6004:152 6005:202 
+extent_server: get 3
+extent_server: getattr 90
+extent_server: getattr 90
+RPC STATS: 1:2 6001:556 6002:1466 6003:1774 6004:152 6005:202 
+extent_server: get 3
+extent_server: write 90
+RPC STATS: 1:2 6001:557 6002:1467 6003:1774 6004:153 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:557 6002:1467 6003:1777 6004:153 6005:202 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: getattr 91
+RPC STATS: 1:2 6001:557 6002:1468 6003:1779 6004:153 6005:202 
+extent_server: getattr 91
+extent_server: get 3
+extent_server: write 91
+RPC STATS: 1:2 6001:558 6002:1469 6003:1779 6004:154 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:558 6002:1470 6003:1781 6004:154 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:558 6002:1471 6003:1783 6004:154 6005:202 
+extent_server: getattr 92
+extent_server: getattr 92
+extent_server: get 3
+RPC STATS: 1:2 6001:558 6002:1472 6003:1784 6004:155 6005:202 
+extent_server: write 92
+extent_server: get 1
+RPC STATS: 1:2 6001:559 6002:1473 6003:1785 6004:155 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:559 6002:1474 6003:1787 6004:155 6005:202 
+extent_server: get 3
+extent_server: getattr 93
+extent_server: getattr 93
+RPC STATS: 1:2 6001:559 6002:1475 6003:1789 6004:155 6005:202 
+extent_server: get 3
+extent_server: write 93
+RPC STATS: 1:2 6001:560 6002:1476 6003:1789 6004:156 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:560 6002:1476 6003:1792 6004:156 6005:202 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: getattr 94
+RPC STATS: 1:2 6001:560 6002:1477 6003:1794 6004:156 6005:202 
+extent_server: getattr 94
+extent_server: get 3
+extent_server: write 94
+RPC STATS: 1:2 6001:561 6002:1478 6003:1794 6004:157 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:561 6002:1479 6003:1796 6004:157 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:561 6002:1480 6003:1798 6004:157 6005:202 
+extent_server: getattr 95
+extent_server: getattr 95
+extent_server: get 3
+RPC STATS: 1:2 6001:561 6002:1481 6003:1799 6004:158 6005:202 
+extent_server: write 95
+extent_server: get 1
+RPC STATS: 1:2 6001:562 6002:1482 6003:1800 6004:158 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:562 6002:1483 6003:1802 6004:158 6005:202 
+extent_server: get 3
+extent_server: getattr 96
+extent_server: getattr 96
+RPC STATS: 1:2 6001:562 6002:1484 6003:1804 6004:158 6005:202 
+extent_server: get 3
+extent_server: write 96
+RPC STATS: 1:2 6001:563 6002:1485 6003:1804 6004:159 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:563 6002:1485 6003:1807 6004:159 6005:202 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: getattr 97
+RPC STATS: 1:2 6001:563 6002:1486 6003:1809 6004:159 6005:202 
+extent_server: getattr 97
+extent_server: get 3
+extent_server: write 97
+RPC STATS: 1:2 6001:564 6002:1487 6003:1809 6004:160 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:564 6002:1488 6003:1811 6004:160 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:564 6002:1489 6003:1813 6004:160 6005:202 
+extent_server: getattr 98
+extent_server: getattr 98
+extent_server: get 3
+RPC STATS: 1:2 6001:564 6002:1490 6003:1814 6004:161 6005:202 
+extent_server: write 98
+extent_server: get 1
+RPC STATS: 1:2 6001:565 6002:1491 6003:1815 6004:161 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:565 6002:1492 6003:1817 6004:161 6005:202 
+extent_server: get 3
+extent_server: getattr 99
+extent_server: getattr 99
+RPC STATS: 1:2 6001:565 6002:1493 6003:1819 6004:161 6005:202 
+extent_server: get 3
+extent_server: write 99
+RPC STATS: 1:2 6001:566 6002:1494 6003:1819 6004:162 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:566 6002:1494 6003:1822 6004:162 6005:202 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: getattr 100
+RPC STATS: 1:2 6001:566 6002:1495 6003:1824 6004:162 6005:202 
+extent_server: getattr 100
+extent_server: get 3
+extent_server: write 100
+RPC STATS: 1:2 6001:567 6002:1496 6003:1824 6004:163 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:567 6002:1497 6003:1826 6004:163 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:567 6002:1498 6003:1828 6004:163 6005:202 
+extent_server: getattr 101
+extent_server: getattr 101
+extent_server: get 3
+RPC STATS: 1:2 6001:567 6002:1499 6003:1829 6004:164 6005:202 
+extent_server: write 101
+extent_server: get 1
+RPC STATS: 1:2 6001:568 6002:1500 6003:1830 6004:164 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:568 6002:1501 6003:1832 6004:164 6005:202 
+extent_server: get 3
+extent_server: getattr 102
+extent_server: getattr 102
+RPC STATS: 1:2 6001:568 6002:1502 6003:1834 6004:164 6005:202 
+extent_server: get 3
+extent_server: write 102
+RPC STATS: 1:2 6001:569 6002:1503 6003:1834 6004:165 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:569 6002:1503 6003:1837 6004:165 6005:202 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: getattr 103
+RPC STATS: 1:2 6001:569 6002:1504 6003:1839 6004:165 6005:202 
+extent_server: getattr 103
+extent_server: get 3
+extent_server: write 103
+RPC STATS: 1:2 6001:570 6002:1505 6003:1839 6004:166 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:570 6002:1506 6003:1841 6004:166 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:570 6002:1507 6003:1843 6004:166 6005:202 
+extent_server: getattr 104
+extent_server: getattr 104
+extent_server: get 3
+RPC STATS: 1:2 6001:570 6002:1508 6003:1844 6004:167 6005:202 
+extent_server: write 104
+extent_server: get 1
+RPC STATS: 1:2 6001:571 6002:1509 6003:1845 6004:167 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:571 6002:1510 6003:1847 6004:167 6005:202 
+extent_server: get 3
+extent_server: getattr 105
+extent_server: getattr 105
+RPC STATS: 1:2 6001:571 6002:1511 6003:1849 6004:167 6005:202 
+extent_server: get 3
+extent_server: write 105
+RPC STATS: 1:2 6001:572 6002:1512 6003:1849 6004:168 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:572 6002:1512 6003:1852 6004:168 6005:202 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: getattr 106
+RPC STATS: 1:2 6001:572 6002:1513 6003:1854 6004:168 6005:202 
+extent_server: getattr 106
+extent_server: get 3
+extent_server: write 106
+RPC STATS: 1:2 6001:573 6002:1514 6003:1854 6004:169 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:573 6002:1515 6003:1856 6004:169 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:573 6002:1516 6003:1858 6004:169 6005:202 
+extent_server: getattr 107
+extent_server: getattr 107
+extent_server: get 3
+RPC STATS: 1:2 6001:573 6002:1517 6003:1859 6004:170 6005:202 
+extent_server: write 107
+extent_server: get 1
+RPC STATS: 1:2 6001:574 6002:1518 6003:1860 6004:170 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:574 6002:1519 6003:1862 6004:170 6005:202 
+extent_server: get 3
+extent_server: getattr 108
+extent_server: getattr 108
+RPC STATS: 1:2 6001:574 6002:1520 6003:1864 6004:170 6005:202 
+extent_server: get 3
+extent_server: write 108
+RPC STATS: 1:2 6001:575 6002:1521 6003:1864 6004:171 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:575 6002:1521 6003:1867 6004:171 6005:202 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: getattr 109
+RPC STATS: 1:2 6001:575 6002:1522 6003:1869 6004:171 6005:202 
+extent_server: getattr 109
+extent_server: get 3
+extent_server: write 109
+RPC STATS: 1:2 6001:576 6002:1523 6003:1869 6004:172 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:576 6002:1524 6003:1871 6004:172 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:576 6002:1525 6003:1873 6004:172 6005:202 
+extent_server: getattr 110
+extent_server: getattr 110
+extent_server: get 3
+RPC STATS: 1:2 6001:576 6002:1526 6003:1874 6004:173 6005:202 
+extent_server: write 110
+extent_server: get 1
+RPC STATS: 1:2 6001:577 6002:1527 6003:1875 6004:173 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:577 6002:1528 6003:1877 6004:173 6005:202 
+extent_server: get 3
+extent_server: getattr 111
+extent_server: getattr 111
+RPC STATS: 1:2 6001:577 6002:1529 6003:1879 6004:173 6005:202 
+extent_server: get 3
+extent_server: write 111
+RPC STATS: 1:2 6001:578 6002:1530 6003:1879 6004:174 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:578 6002:1530 6003:1882 6004:174 6005:202 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: getattr 112
+RPC STATS: 1:2 6001:578 6002:1531 6003:1884 6004:174 6005:202 
+extent_server: getattr 112
+extent_server: get 3
+extent_server: write 112
+RPC STATS: 1:2 6001:579 6002:1532 6003:1884 6004:175 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:579 6002:1533 6003:1886 6004:175 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:579 6002:1534 6003:1888 6004:175 6005:202 
+extent_server: getattr 113
+extent_server: getattr 113
+extent_server: get 3
+RPC STATS: 1:2 6001:579 6002:1535 6003:1889 6004:176 6005:202 
+extent_server: write 113
+extent_server: get 1
+RPC STATS: 1:2 6001:580 6002:1536 6003:1890 6004:176 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:580 6002:1537 6003:1892 6004:176 6005:202 
+extent_server: get 3
+extent_server: getattr 114
+extent_server: getattr 114
+RPC STATS: 1:2 6001:580 6002:1538 6003:1894 6004:176 6005:202 
+extent_server: get 3
+extent_server: write 114
+RPC STATS: 1:2 6001:581 6002:1539 6003:1894 6004:177 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:581 6002:1539 6003:1897 6004:177 6005:202 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: getattr 115
+RPC STATS: 1:2 6001:581 6002:1540 6003:1899 6004:177 6005:202 
+extent_server: getattr 115
+extent_server: get 3
+extent_server: write 115
+RPC STATS: 1:2 6001:582 6002:1541 6003:1899 6004:178 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:582 6002:1542 6003:1901 6004:178 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:582 6002:1543 6003:1903 6004:178 6005:202 
+extent_server: getattr 116
+extent_server: getattr 116
+extent_server: get 3
+RPC STATS: 1:2 6001:582 6002:1544 6003:1904 6004:179 6005:202 
+extent_server: write 116
+extent_server: get 1
+RPC STATS: 1:2 6001:583 6002:1545 6003:1905 6004:179 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:583 6002:1546 6003:1907 6004:179 6005:202 
+extent_server: get 3
+extent_server: getattr 117
+extent_server: getattr 117
+RPC STATS: 1:2 6001:583 6002:1547 6003:1909 6004:179 6005:202 
+extent_server: get 3
+extent_server: write 117
+RPC STATS: 1:2 6001:584 6002:1548 6003:1909 6004:180 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:584 6002:1548 6003:1912 6004:180 6005:202 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: getattr 118
+RPC STATS: 1:2 6001:584 6002:1549 6003:1914 6004:180 6005:202 
+extent_server: getattr 118
+extent_server: get 3
+extent_server: write 118
+RPC STATS: 1:2 6001:585 6002:1550 6003:1914 6004:181 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:585 6002:1551 6003:1916 6004:181 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:585 6002:1552 6003:1918 6004:181 6005:202 
+extent_server: getattr 119
+extent_server: getattr 119
+extent_server: get 3
+RPC STATS: 1:2 6001:585 6002:1553 6003:1919 6004:182 6005:202 
+extent_server: write 119
+extent_server: get 1
+RPC STATS: 1:2 6001:586 6002:1554 6003:1920 6004:182 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:586 6002:1555 6003:1922 6004:182 6005:202 
+extent_server: get 3
+extent_server: getattr 120
+extent_server: getattr 120
+RPC STATS: 1:2 6001:586 6002:1556 6003:1924 6004:182 6005:202 
+extent_server: get 3
+extent_server: write 120
+RPC STATS: 1:2 6001:587 6002:1557 6003:1924 6004:183 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:587 6002:1557 6003:1927 6004:183 6005:202 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: getattr 121
+RPC STATS: 1:2 6001:587 6002:1558 6003:1929 6004:183 6005:202 
+extent_server: getattr 121
+extent_server: get 3
+extent_server: write 121
+RPC STATS: 1:2 6001:588 6002:1559 6003:1929 6004:184 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:588 6002:1560 6003:1931 6004:184 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:588 6002:1561 6003:1933 6004:184 6005:202 
+extent_server: getattr 122
+extent_server: getattr 122
+extent_server: get 3
+RPC STATS: 1:2 6001:588 6002:1562 6003:1934 6004:185 6005:202 
+extent_server: write 122
+extent_server: get 1
+RPC STATS: 1:2 6001:589 6002:1563 6003:1935 6004:185 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:589 6002:1564 6003:1937 6004:185 6005:202 
+extent_server: get 3
+extent_server: getattr 123
+extent_server: getattr 123
+RPC STATS: 1:2 6001:589 6002:1565 6003:1939 6004:185 6005:202 
+extent_server: get 3
+extent_server: write 123
+RPC STATS: 1:2 6001:590 6002:1566 6003:1939 6004:186 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:590 6002:1566 6003:1942 6004:186 6005:202 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: getattr 124
+RPC STATS: 1:2 6001:590 6002:1567 6003:1944 6004:186 6005:202 
+extent_server: getattr 124
+extent_server: get 3
+extent_server: write 124
+RPC STATS: 1:2 6001:591 6002:1568 6003:1944 6004:187 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:591 6002:1569 6003:1946 6004:187 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:591 6002:1570 6003:1948 6004:187 6005:202 
+extent_server: getattr 125
+extent_server: getattr 125
+extent_server: get 3
+RPC STATS: 1:2 6001:591 6002:1571 6003:1949 6004:188 6005:202 
+extent_server: write 125
+extent_server: get 1
+RPC STATS: 1:2 6001:592 6002:1572 6003:1950 6004:188 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:592 6002:1573 6003:1952 6004:188 6005:202 
+extent_server: get 3
+extent_server: getattr 126
+extent_server: getattr 126
+RPC STATS: 1:2 6001:592 6002:1574 6003:1954 6004:188 6005:202 
+extent_server: get 3
+extent_server: write 126
+RPC STATS: 1:2 6001:593 6002:1575 6003:1954 6004:189 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:593 6002:1575 6003:1957 6004:189 6005:202 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: getattr 127
+RPC STATS: 1:2 6001:593 6002:1576 6003:1959 6004:189 6005:202 
+extent_server: getattr 127
+extent_server: get 3
+extent_server: write 127
+RPC STATS: 1:2 6001:594 6002:1577 6003:1959 6004:190 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:594 6002:1578 6003:1961 6004:190 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:594 6002:1579 6003:1963 6004:190 6005:202 
+extent_server: getattr 128
+extent_server: getattr 128
+extent_server: get 3
+RPC STATS: 1:2 6001:594 6002:1580 6003:1964 6004:191 6005:202 
+extent_server: write 128
+extent_server: get 1
+RPC STATS: 1:2 6001:595 6002:1581 6003:1965 6004:191 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:595 6002:1582 6003:1967 6004:191 6005:202 
+extent_server: get 3
+extent_server: getattr 156
+extent_server: getattr 156
+RPC STATS: 1:2 6001:595 6002:1583 6003:1969 6004:191 6005:202 
+extent_server: get 3
+extent_server: write 156
+RPC STATS: 1:2 6001:596 6002:1584 6003:1969 6004:192 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:596 6002:1584 6003:1972 6004:192 6005:202 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: getattr 157
+RPC STATS: 1:2 6001:596 6002:1585 6003:1974 6004:192 6005:202 
+extent_server: getattr 157
+extent_server: get 3
+extent_server: write 157
+RPC STATS: 1:2 6001:597 6002:1586 6003:1974 6004:193 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:597 6002:1587 6003:1976 6004:193 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:597 6002:1588 6003:1978 6004:193 6005:202 
+extent_server: getattr 197
+extent_server: getattr 197
+extent_server: get 3
+RPC STATS: 1:2 6001:597 6002:1589 6003:1979 6004:194 6005:202 
+extent_server: write 197
+extent_server: get 1
+RPC STATS: 1:2 6001:598 6002:1590 6003:1980 6004:194 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:598 6002:1591 6003:1982 6004:194 6005:202 
+extent_server: get 3
+extent_server: getattr 198
+extent_server: getattr 198
+RPC STATS: 1:2 6001:598 6002:1592 6003:1984 6004:194 6005:202 
+extent_server: get 3
+extent_server: write 198
+RPC STATS: 1:2 6001:599 6002:1593 6003:1984 6004:195 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:599 6002:1593 6003:1987 6004:195 6005:202 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: getattr 200
+RPC STATS: 1:2 6001:599 6002:1594 6003:1989 6004:195 6005:202 
+extent_server: getattr 200
+extent_server: get 3
+extent_server: write 200
+RPC STATS: 1:2 6001:600 6002:1595 6003:1989 6004:196 6005:202 
+extent_server: get 1
+extent_server: getattr 3
+RPC STATS: 1:2 6001:600 6002:1596 6003:1991 6004:196 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: get 3
+RPC STATS: 1:2 6001:600 6002:1597 6003:1993 6004:196 6005:202 
+extent_server: getattr 201
+extent_server: getattr 201
+extent_server: get 3
+RPC STATS: 1:2 6001:600 6002:1598 6003:1994 6004:197 6005:202 
+extent_server: write 201
+extent_server: get 1
+RPC STATS: 1:2 6001:601 6002:1599 6003:1995 6004:197 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:601 6002:1600 6003:1997 6004:197 6005:202 
+extent_server: get 3
+extent_server: getattr 202
+extent_server: getattr 202
+RPC STATS: 1:2 6001:601 6002:1601 6003:1999 6004:197 6005:202 
+extent_server: get 3
+extent_server: write 202
+RPC STATS: 1:2 6001:602 6002:1602 6003:1999 6004:198 6005:202 
+extent_server: get 1
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:602 6002:1602 6003:2002 6004:198 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: getattr 2
+RPC STATS: 1:2 6001:602 6002:1602 6003:2005 6004:198 6005:202 
+extent_server: getattr 2
+extent_server: getattr 2
+extent_server: get 2
+RPC STATS: 1:2 6001:602 6002:1603 6003:2007 6004:198 6005:202 
+extent_server: getattr 2
+extent_server: get 2
+extent_server: get 1
+RPC STATS: 1:2 6001:602 6002:1605 6003:2008 6004:198 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:602 6002:1605 6003:2011 6004:198 6005:202 
+extent_server: getattr 3
+extent_server: getattr 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:602 6002:1605 6003:2014 6004:198 6005:202 
+extent_server: getattr 3
+extent_server: get 3
+extent_server: getattr 3
+RPC STATS: 1:2 6001:602 6002:1607 6003:2015 6004:198 6005:202 
+extent_server: get 3

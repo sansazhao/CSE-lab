@@ -1,2 +1,283 @@
-rpcs::dispatch: failed to unmarshall the arguments. You are probably calling RPC 0x7001 with wrong types of arguments.
-lock_server: rpc/rpc.cc:598: void rpcs::dispatch(rpcs::djob_t*): Assertion `0' failed.
+acquire id:127.0.0.1:30585
+RPC STATS: 1:2 7001:1 
+acquire id:127.0.0.1:9470
+1542990558935:	handler_mgr::get_handle trying to bind...127.0.0.1:30585
+1542990558935:	handle_mgr::get_handle bind succeeded 127.0.0.1:30585
+1542990558935:	handler_mgr::get_handle trying to bind...127.0.0.1:9470
+1542990558939:	handle_mgr::get_handle bind succeeded 127.0.0.1:9470
+RPC STATS: 1:2 7001:3 7002:1 
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:30585
+RPC STATS: 1:2 7001:5 7002:2 
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:9470
+RPC STATS: 1:2 7001:7 7002:3 
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:30585
+RPC STATS: 1:2 7001:8 7002:5 
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:30585
+RPC STATS: 1:2 7001:11 7002:5 
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:30585
+RPC STATS: 1:2 7001:14 7002:5 
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:9470
+RPC STATS: 1:2 7001:17 7002:5 
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:9470
+RPC STATS: 1:2 7001:20 7002:5 
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:9470
+RPC STATS: 1:2 7001:23 7002:5 
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:9470
+RPC STATS: 1:2 7001:26 7002:5 
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:30585
+RPC STATS: 1:2 7001:29 7002:5 
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:9470
+RPC STATS: 1:2 7001:32 7002:5 
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:9470
+RPC STATS: 1:2 7001:35 7002:5 
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:9470
+RPC STATS: 1:2 7001:38 7002:5 
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:30585
+RPC STATS: 1:2 7001:41 7002:5 
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:30585
+RPC STATS: 1:2 7001:44 7002:5 
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:9470
+RPC STATS: 1:2 7001:47 7002:5 
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:30585
+RPC STATS: 1:2 7001:50 7002:5 
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:30585
+RPC STATS: 1:2 7001:53 7002:5 
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:9470
+RPC STATS: 1:2 7001:56 7002:5 
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:30585
+RPC STATS: 1:2 7001:59 7002:5 
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:9470
+RPC STATS: 1:2 7001:62 7002:5 
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:9470
+RPC STATS: 1:2 7001:65 7002:5 
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:9470
+RPC STATS: 1:2 7001:68 7002:5 
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:9470
+RPC STATS: 1:2 7001:71 7002:5 
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:30585
+RPC STATS: 1:2 7001:74 7002:5 
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:30585
+RPC STATS: 1:2 7001:77 7002:5 
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:30585
+RPC STATS: 1:2 7001:80 7002:5 
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:9470
+RPC STATS: 1:2 7001:83 7002:5 
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:9470
+RPC STATS: 1:2 7001:86 7002:5 
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:9470
+RPC STATS: 1:2 7001:89 7002:5 
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:9470
+RPC STATS: 1:2 7001:92 7002:5 
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:9470
+RPC STATS: 1:2 7001:95 7002:5 
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:9470
+RPC STATS: 1:2 7001:98 7002:5 
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:9470
+RPC STATS: 1:2 7001:101 7002:5 
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:9470
+RPC STATS: 1:2 7001:104 7002:5 
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:9470
+RPC STATS: 1:2 7001:107 7002:5 
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:9470
+RPC STATS: 1:2 7001:110 7002:5 
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:9470
+RPC STATS: 1:2 7001:113 7002:5 
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:9470
+RPC STATS: 1:2 7001:116 7002:5 
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:9470
+RPC STATS: 1:2 7001:119 7002:5 
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:9470
+RPC STATS: 1:2 7001:122 7002:5 
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:9470
+RPC STATS: 1:2 7001:125 7002:5 
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:9470
+RPC STATS: 1:2 7001:128 7002:5 
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:9470
+RPC STATS: 1:2 7001:131 7002:5 
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:9470
+RPC STATS: 1:2 7001:134 7002:5 
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:30585
+RPC STATS: 1:2 7001:137 7002:5 
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:30585
+RPC STATS: 1:2 7001:140 7002:5 
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:30585
+RPC STATS: 1:2 7001:143 7002:5 
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:30585
+RPC STATS: 1:2 7001:146 7002:5 
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:30585
+RPC STATS: 1:2 7001:149 7002:5 
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:30585
+RPC STATS: 1:2 7001:152 7002:5 
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:30585
+RPC STATS: 1:2 7001:155 7002:5 
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:30585
+RPC STATS: 1:2 7001:158 7002:5 
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:30585
+RPC STATS: 1:2 7001:161 7002:5 
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:30585
+RPC STATS: 1:2 7001:164 7002:5 
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:30585
+RPC STATS: 1:2 7001:167 7002:5 
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:30585
+RPC STATS: 1:2 7001:170 7002:5 
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:30585
+RPC STATS: 1:2 7001:173 7002:5 
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:30585
+RPC STATS: 1:2 7001:176 7002:5 
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:30585
+RPC STATS: 1:2 7001:179 7002:5 
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:30585
+RPC STATS: 1:2 7001:182 7002:5 
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:30585
+RPC STATS: 1:2 7001:185 7002:5 
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:30585
+RPC STATS: 1:2 7001:188 7002:5 
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:30585
+RPC STATS: 1:2 7001:191 7002:5 
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:30585
+RPC STATS: 1:2 7001:194 7002:5 
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:30585
+RPC STATS: 1:2 7001:197 7002:5 
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:30585
+RPC STATS: 1:2 7001:200 7002:5 
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:9470
+RPC STATS: 1:2 7001:203 7002:5 
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:30585
+acquire id:127.0.0.1:9470
+RPC STATS: 1:2 7001:206 7002:5 
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:9470
+acquire id:127.0.0.1:9470
