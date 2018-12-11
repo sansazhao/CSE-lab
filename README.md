@@ -1,7 +1,7 @@
 # CSE-lab
 
 ## lab3
----
+
 - 仔细梳理
 - while循环等待releasing的线程
 - acquire时添加线程到thread[lid]
@@ -9,7 +9,6 @@
 - new: revoke时若处于acquiring，唤醒沉睡线程
 
 ## lab4
----
 
 ### bugs of part2 & part3
 * part2 put/cat error 118 : appendblock部分有误，传master_datanode
